@@ -1,0 +1,208 @@
+黒|HẮC|Màu đen|N4|11|くろ,  くろ.ずむ,  くろ.い|コク||Ruộng (田) bị Hoả (灬) thiêu chỉ còn lại mảnh Đất (土) màu Đen (黒)
+持|TRÌ|Cầm, giữ|N4|9|も.つ,  -も.ち,  も.てる|ジ|扌 寺|Tay (扌) lên chùa (寺) cầm (持) theo lễ vật
+教|GIÁO|Giáo dục|N4|11|おし.える,  おそ.わる|キョウ|孝 攵|Dạy con hiếu thảo (孝) không nên đánh (夂), đó mới là giáo dục (教) đúng cách
+文|VĂN|Văn học|N4|4|ふみ,  あや|ブン,  モン||Người có ĐẦU ( 亠) óc thường có tài NGHỆ (乂) viết VĂN (文)
+料|LIỆU|Nguyên liệu|N4|10||リョウ|米 斗|Đong gạo (米) băng đấu (斗) liệu (料) có chuẩn?
+旅|LỮ|Du lịch|N4|10|たび|リョ|方 𠂉 亻|Du lịch (旅) khắp 4 phương (方) lúc nằm (𠂉) lúc đứng (亻) lúc người (人) như bay bay
+族|TỘC|Gia tộc|N4|11||ゾク|方 𠂉 矢|Gia tộc (旅) nhà Phương (方) nằm (𠂉) bắn tên (矢)
+早|TẢO|Sớm|N4|6|はや.い,  はや,  はや-,  はや.まる,  はや.める,  さ-|ソウ,  サッ|日 十 音|Chủ nhật (日) dậy lúc 10 (十) giờ vẫn là sớm (早)
+映|ÁNH|Phản chiếu, chiếu phim|N4|9|うつ.る,  うつ.す,  は.える,  -ば.え|エイ|日 央|Hàng ngày (日) lên trung ương (央) để phản ánh (映)
+春|XUÂN|Mùa xuân|N4|9|はる|シュン|𡗗 日|3 người (夫) đi chơi ngày (日) xuân (春)
+昼|TRÚ|Ban ngày|N4|9|ひる|チュウ|尺 旦|Bị xích (尺) trong ngày mồng 1 (旦) đến tận buổi trưa (昼)
+有|HỮU|Có|N4|6|あ.る|ユウ,  ウ|月|Có (有) na (ナ) Nguyệt (月) cũng không thèm ăn
+服|PHỤC|Quần áo|N4|8||フク|月 卩 又|Nguyệt (月) phản đối (反) mặc đồng phục (服)
+朝|TRIỀU|Buổi sáng|N4|12|あさ|チョウ|𠦝 月|Buổi sáng (朝) Ngày 20 (車) tháng (月) 10
+楽|LẠC|Vui vẻ, âm nhạc|N4|13|たの.しい,  たの.しむ,  この.む|ガク,  ラク,  ゴウ|白 冫 木|Màu trắng (白) phát ra (><) từ cây (木) nhìn rất vui (楽) mắt
+歌|CA|Hát|N4|14|うた,  うた.う|カ|哥 欠|Khả năng (可) bị thiếu (欠) chính là ca hát (歌)
+止|CHỈ|Dừng lại|N4|4|と.まる,  -ど.まり,  と.める,  -と.める,  -ど.め,  とど.める,  とど.め,  とど.まる,  や.める,  や.む,  -や.む,  よ.す,  -さ.す,  -さ.し|シ||Đèn giao thông bên trên (上) còn 1 (丨) giây xanh, thì cần dừng lại (止) kẻo mất 4 củ
+正|CHÍNH|Đúng, chính xác|N4|5|ただ.しい,  ただ.す,  まさ,  まさ.に|セイ,  ショウ|干 止 丿 一|Nhất (一) định dừng lại (止) là chính xác (正)
+歩|BỘ|Bước đi|N4|8|ある.く,  あゆ.む|ホ,  ブ,  フ|止 少|Chỉ (止) thiếu (少) đi bộ (歩)
+洋|DƯƠNG|Biển lớn, phương Tây|N4|9||ヨウ|氵 羊|Nước (氵) đẩy con dê (羊) trôi ra đại dương (洋)
+海|HẢI|Biển|N4|9|うみ|カイ|氵 毎|Nước (氵) mỗi ngày (毎) chảy ra biển (海)
+漢|HÁN|Hán tự|N4|13||カン|氵 艹 口 夫|Nước (氵) Hán (茣) là nơi sinh ra chữ Hán (漢)
+特|ĐẶC|Đặc biệt|N4|10||トク|牛 寺|Con bò ( 牜) trên chùa (寺) rất đặc biệt (特)
+不|BẤT|Không|N4|4||フ,  ブ|一 丿 丨|Cây (木) bị ngắt ngọn thì không (不) thể sống
+世|THẾ|Thế giới|N4|5|よ|セイ,  セ,  ソウ|廿|Cốc nước (廿) Lớn (L) nhất thế giới (世)
+主|CHỦ|Người chủ|N4|5|ぬし,  おも,  あるじ|シュ,  ス,  シュウ|亠 王 丶|Vua (王) là chủ (主) thiên hạ
+京|KINH|Thủ đô|N4|8|みやこ|キョウ,  ケイ,  キン|亠 口 小|Kinh đô (京) là nơi đầu (亠) não nên miệng (ロ) nói phải nhỏ (小) nhẹ
+会|HỘI|Gặp gỡ|N4|6|あ.う,  あ.わせる,  あつ.まる|カイ,  エ|人 云|Người (人) suốt 24 giờ (云) đi chơi hội (会)
+住|TRÚ|Cư trú, ở|N4|7|す.む,  す.まう,  -ず.まい|ジュウ,  ヂュウ,  チュウ|亻 主|Người (亻) làm chủ (主) nơi cư trú (住)
+作|TÁC|Làm, sáng tạo|N4|7|つく.る,  つく.り,  -づく.り|サク,  サ|亻 乍|Người (亻) bị Ép (乍) sáng tác (作)
+使|SỬ|Sử dụng|N4|8|つか.う,  つか.い,  -つか.い,  -づか.い|シ|亻 吏|Người (亻) được quan lại (吏) sử dụng (使)
+兄|HUYNH|Anh trai|N4|5|あに|ケイ,  キョウ|口 儿|Anh trai (兄) miệng (ロ) nói chân chạy (儿)
+公|CÔNG|Công cộng|N4|4|おおやけ|コウ,  ク|八 厶|chuyện riêng Tư (ム) mà kể cho 8 (ハ) người nghe thì thành Công (公) khai rồi
+写|TẢ|Chép lại|N4|5|うつ.す,  うつ.る,  うつ-,  うつ.し|シャ,  ジャ|冖 与|Miêu tả (写) chiếc khăn trùm (冖) số 51 (与)
+冬|ĐÔNG|Mùa đông|N4|5|ふゆ|トウ|夂 冫|Sau (夂) khi băng (=) tan là hết mùa đông (冬)
+切|THIẾT|Cắt|N4|4|き.る,  -き.る,  き.り,  -き.り,  -ぎ.り,  き.れる,  -き.れる,  き.れ,  -き.れ,  -ぎ.れ|セツ,  サイ|七 刀|Nhất thiết phải dùng 7 (七) đao (刀) để cắt (切)
+力|LỰC|Sức lực|N4|2|ちから|リョク,  リキ,  リイ||Đại Ka (カ) (ka trong bảng katakana) phải có Lực (力)
+勉|MIỄN|Cố gắng|N4|10|つと.める|ベン|免 力|Miễn (免) còn sức lực (力) thì còn cố gắng (勉)
+動|ĐỘNG|Chuyển động|N4|11|うご.く,  うご.かす|ドウ|重 力|Trọng (重) lực (カ) tạo ra chuyển động (動)
+医|Y|Y tế, bác sĩ|N4|7|い.やす,  い.する,  くすし|イ|匸 矢 匚|Tủ đựng (匚) mũi tên (矢) là tủ y tế (医)
+去|KHỨ|Rời đi|N4|5|さ.る,  -さ.る|キョ,  コ|土 厶|Mảnh đất (土) 4 (厶) mét đã là chuyện quá khứ (去)
+台|ĐÀI|Bệ, đài|N4|5|うてな,  われ,  つかさ|ダイ,  タイ|厶 口|4 (ム) mồm (口) nói như đài (台)
+同|ĐỒNG|Giống|N4|6|おな.じ|ドウ|冂 一 口|Ở biên giới (冂) có chung 1 (一) miệng (口) giống nhau (同)
+味|VỊ|Mùi vị|N4|8|あじ,  あじ.わう|ミ|口 未|Dùng miệng (ロ) vẫn chưa (未) nếm được hương vị (味) của rượu táo mèo
+品|PHẨM|Sản phẩm|N4|9|しな|ヒン,  ホン|口|3 cái miệng (口) nói về sản phẩm (品)
+理|LÝ|Lý do, lý luận|N4|11|ことわり|リ|王 里|Vua (王) giết ông Lí (里) là có lý do (理)
+画|HỌA|Vẽ|N4|8|えが.く,  かく.する,  かぎ.る,  はかりごと,  はか.る|ガ,  カク,  エ,  カイ|一 由 凵|1 (一) khi tự do (由) há miệng (口) sẽ nói về kế hoạch (画)
+界|GIỚI|Thế giới|N4|9||カイ|田 介|Ruộng (田) lúa ở Việt Nam được giới thiệu (介) ra toàn thế giới (界)
+病|BỆNH|Bệnh|N4|10|や.む,  -や.み,  やまい|ビョウ,  ヘイ|疒 丙|Bị bệnh (疒) lần thứ 3 (丙) thì nên đi bệnh viện (病)
+発|PHÁT|Phát triển|N4|9|た.つ,  あば.く,  おこ.る,  つか.わす,  はな.つ|ハツ,  ホツ|癶 二 儿|Cầm bát (癶) 2 (二) chân (儿) xuất phát (発)
+真|CHÂN|Thật|N4|10|ま,  ま-,  まこと|シン|十 具 眞|10 (十) cụ (惧), cụ nào cũng chân thật (真)
+着|TRƯỚC|Đến nơi, mặc|N4|12|き.る,  き.せる,  つ.く,  つ.ける|チャク,  ジャク|羊 丿 目|Con dê (羊) mắt (目) nhìn để mặc (着) đồ
+知|TRI|Biết|N4|8|し.る,  し.らせる|チ|矢 口|Mũi tên (矢) bắn vào miệng (ロ) mà không biết (知)
+研|NGHIÊN|Nghiên cứu|N4|9|と.ぐ|ケン|石 开|Cầm đá (石) chắp 1 tay (开) nghiên cứu (研)
+社|XÃ|Xã hội, công ty|N4|7|やしろ|シャ|礻 土|Chỉ thị (ネ) cúng thổ (土) địa cho xã hội (社) phát triển
+私|TƯ|Tôi|N4|7|わたくし,  わたし|シ|禾 厶|Lúa (禾) 4 (ム) bao của tôi (私) hết
+秋|THU|Mùa thu|N4|9|あき,  とき|シュウ|禾 火|Lúa (禾) chín rực lửa (火) vào mùa thu (秋)
+究|CỨU|Nghiên cứu|N4|7|きわ.める|キュウ,  ク|穴 九|Đào lỗ (穴) xuống cửu (九) tuyền để nghiên cứu (究)
+空|KHÔNG|Bầu trời|N4|8|そら,  あ.く,  あ.き,  あ.ける,  から,  す.く,  す.かす,  むな.しい|クウ|穴 工|Ở dưới cái lỗ (穴) công nhân (工) thiếu không khí (空)
+答|ĐÁP|Trả lời|N4|12|こた.える,  こた.え|トウ|竹 合 人 一 口|Trúc (⺮) là người thích hợp (合) đại diện trả lời (答)
+紙|CHỈ|Giấy|N4|10|かみ|シ|糸 氏|Chỉ (糸) thị (氏) được viết lên giấy (紙)
+終|CHUNG|Kết thúc|N4|11|お.わる,  -お.わる,  おわ.る,  お.える,  つい,  つい.に|シュウ|糸 冬|Chuyện tình ta như sợi chỉ(糸) đến mùa đông(冬) là kết thúc (終)
+習|TẬP|Học|N4|11|なら.う,  なら.い|シュウ,  ジュ|羽 白|Con chim (羽) trắng (白) đang tập (習) bay
+考|KHẢO|Suy nghĩ|N4|6|かんが.える,  かんが.え|コウ|耂 丂|Đứng trên đất chống gậy (者) 5 (ち) guây suy nghĩ (考) bắt đầu
+自|TỰ|Bản thân|N4|6|みずか.ら,  おの.ずから,  おの.ずと|ジ,  シ||Tự (自) nhiên bụi (丿) bay vào mắt (目)
+色|SẮC|Màu sắc|N4|6|いろ|ショク,  シキ||Bị móc (ク) túi mặt ba (巴) biến sắc (色)
+英|ANH|Xuất sắc, nước Anh|N4|8|はなぶさ|エイ|艹 央|Cô giáo Thảo (艹) lên trung ương (央) dạy tiếng Anh (英)
+親|THÂN|Cha mẹ, người thân|N4|16|おや,  おや-,  した.しい,  した.しむ|シン|立 木 見|Đứng (立) trên cây (木) nhìn (見) người thân *bố mẹ* (親)
+問|VẤN|Hỏi|N4|11|と.う,  と.い,  とん|モン|門 口|Đứng dưới cổng (門) mở miệng (口) hỏi (問)
+図|ĐỒ|Bản đồ|N4|7|え,  はか.る|ズ,  ト|囗 小 乂|Vây quanh (囗) 2 (゛) dấu X (メ) trên bản đồ (図)
+地|ĐỊA|Đất|N4|6||チ,  ジ|土 也|Thổ (土) Địa thả C (也) xuống đất (地)
+場|TRƯỜNG|Nơi chốn|N4|12|ば|ジョウ,  チョウ|土 昜|Xúc đất (士) vật vã (易) ở công trường (場)
+売|MẠI|Bán|N4|7|う.る,  う.れる|バイ|士 冖 儿|Binh sĩ (士) trùm khăn (冖) chân chạy (儿) đi bán (売) hàng
+夏|HẠ|Mùa hè|N4|10|なつ|カ,  ガ,  ゲ|自 夂 一|Còn lại 1 (一) mình (自) sau (攵) mùa hạ (夏)
+夜|DẠ|Đêm|N4|8|よ,  よる|ヤ|亠 亻 夕|Lần đầu (亠) nhìn thấy người (亻) cá (叉) vào buổi đêm (夜)
+妹|MUỘI|Em gái|N4|8|いもうと|マイ|女 未|Cô gái (女) tuổi vị thành niên (未) là em gái (妹)
+姉|TỶ|Chị gái|N4|8|あね,  はは|シ|女 市|Cô gái (女) ra thành phố (市) học là chị gái (姉)
+始|THỦY|Bắt đầu|N4|8|はじ.める,  -はじ.める,  はじ.まる|シ|女 台|Người phụ nữ (女) lên vũ đài (台) bắt đầu (始) phát biểu
+室|THẤT|Phòng|N4|9|むろ|シツ|宀 至|Dưới mái nhà (宀) Chí (至) Phèo có căn phòng (室) nhỏ
+家|GIA|Nhà|N4|10|いえ,  や,  うち|カ,  ケ|宀 豕|Dưới mái nhà (宀) lợn (豕) sống thành gia đình (家)
+屋|ỐC|Nhà|N4|9|や|オク|尸 至|Xác chết (尸) Chí (至) Phèo trên cao ốc (屋)
+工|CÔNG|Công nhân|N4|3||コウ,  ク,  グ||Ê! Công nhân (工)
+広|QUẢNG|Rộng|N4|5|ひろ.い,  ひろ.まる,  ひろ.める,  ひろ.がる,  ひろ.げる|コウ|广 厶|Mái hiên (广) 4 (ム) mét là rộng (広)
+店|ĐIẾM|Cửa hàng|N4|8|みせ,  たな|テン|广 占|Mái hiên (广) bị chiếm (占) để làm cửa hàng (店)
+弟|ĐỆ|Em trai|N4|7|おとうと|テイ,  ダイ,  デ|弔 丿 八|2 (丷) lần bắn cung (弓) đều đứng số 1 (丨) là em trai (弟)
+強|CƯỜNG|Mạnh|N4|11|つよ.い,  つよ.まる,  つよ.める,  し.いる,  こわ.い|キョウ,  ゴウ|弓 厶 虫|Cầm cung tên (弓) bắn 4 (厶) con côn trùng (虫) khỏe mạnh (強)
+待|ĐÃI|Chờ đợi|N4|9|ま.つ,  -ま.ち|タイ|彳 寺|2 người đứng (彳) trên chùa (寺) đợi (待) nhau
+心|TÂM|Trái tim|N4|4|こころ,  -ごころ|シン||Một vần trăng khuyết (し) 3 sao (ミ) giữa trời là chữ tâm (心)
+思|TƯ|Suy nghĩ|N4|9|おも.う,  おもえら.く,  おぼ.す|シ|田 心|Làm ruộng (田) là tâm (心) tư phải suy nghĩ
+急|CẤP|Gấp, nhanh|N4|9|いそ.ぐ,  いそ.ぎ,  せ.く|キュウ|𠂊 彐 心|Móc (ク) vào Em (ヨ) tâm (心) tình trong tình huống khẩn cấp (急)
+計|KẾ|Kế hoạch|N4|9|はか.る,  はか.らう|ケイ|言 十|Nói (言) 10 (十) lần là ra kế hoạch (計)
+試|THÍ|Thử nghiệm|N4|13|こころ.みる,  ため.す|シ|言 式|Nói (言) về hình thức (式) tiến hành thí nghiệm (試)
+質|CHẤT|Chất lượng|N4|15|たち,  ただ.す,  もと,  わりふ|シツ,  シチ,  チ|斤 貝|Dùng 2 rìu (斤) gõ vào bảo bối (貝) để kiểm tra chất lượng (質)
+赤|XÍCH|Màu đỏ|N4|7|あか,  あか-,  あか.い,  あか.らむ,  あか.らめる|セキ,  シャク||Xích ở đất (土) bị lửa (火) đốt cháy đỏ (赤)
+走|TẨU|Chạy|N4|7|はし.る|ソウ||Dưới đất (土) hạ (下) nhân (人) đang chạy (走)
+近|CẬN|Gần|N4|7|ちか.い|キン,  コン|斤 辶|Cầm rìu (斤) bước đi (⻌) để CẬN (近) chiến
+送|TỐNG|Gửi đi|N4|9|おく.る|ソウ|关 辶|Miệng (口) quan (关) cười như nở hoa (咲)
+通|THÔNG|Thông qua, giao thông|N4|10|とお.る,  とお.り,  -とお.り,  -どお.り,  とお.す,  とお.し,  -どお.し,  かよ.う|ツウ,  ツ|甬 辶|Ma (々) sử dụng (用) xe đi xa (辶) nơi ách tắc giao thông (通)
+週|CHU|Tuần|N4|11||シュウ|周 辶|Cuối tuần (週) miệng chu (周) ra đòi đi xa (辶)
+運|VẬN|Vận động, vận mệnh|N4|12|はこ.ぶ|ウン|軍 辶|Quân đội (軍) đi xa (辶) để vận chuyển (運) hàng hóa
+道|ĐẠO|Đường, đạo lý|N4|12|みち,  いう|ドウ,  トウ|首 辶|Con đường (道) Thủ tướng (首) đi còn xa (辶)
+重|TRỌNG|Nặng|N4|9|え,  おも.い,  おも.り,  おも.なう,  かさ.ねる,  かさ.なる,  おも|ジュウ,  チョウ|千 里|Dàn hoa thiên (千) lý (里) rất nặng (重)
+野|DÃ|Cánh đồng, hoang dã|N4|11|の,  の-|ヤ,  ショ|里 予|Ông Lí (里) dự (予) đoán sắp bị dã (野)
+銀|NGÂN|Bạc|N4|14|しろがね|ギン|金 艮|Vàng (金) không tốt (良) bằng bạc (銀)
+開|KHAI|Mở|N4|12|ひら.く,  ひら.き,  -びら.き,  ひら.ける,  あ.く,  あ.ける|カイ|門 开|Đứng dưới cổng (門) 1 (一) người đang chắp tay (廾) mở (開) cửa
+院|VIỆN|Bệnh viện|N4|10||イン|阝 完|Bồ (阝) hoàn thành (完) bệnh viện (院)
+集|TẬP|Tập hợp|N4|12|あつ.まる,  あつ.める,  つど.う|シュウ|隹 木|Chim (隹) đứng trên cây (木) tập trung (集)
+青|THANH|Màu xanh|N4|8|あお,  あお-,  あお.い|セイ,  ショウ||Ông vua lòi đầu (主) đứng ngắm trăng (月) thanh (青)
+題|ĐỀ|Chủ đề|N4|18||ダイ|是 頁|Vấn đề (題) thị phi (是) ghi lên giấy (頁)
+風|PHONG|Gió|N4|9|かぜ,  かざ-|フウ,  フ||Dưới ghế (几) 1 (ノ) con côn trùng (虫) đang nấp để tránh gió (風)
+飯|PHẠN|Cơm|N4|12|めし|ハン|飠 反|Có cơm (飯) ăn (食) còn phản đối (反) gì nữa?
+館|QUÁN|Công quán, quán trọ|N4|16|やかた,  たて|カン|飠 官|Ăn (食) với quan (官) trong quán (館)
+駅|DỊCH|Nhà ga|N4|14||エキ|馬 尺|Con ngựa (馬) bị xích (尺) ở nhà ga (駅)
+験|NGHIỆM|Kiểm nghiệm|N4|18|あかし,  しるし,  ため.す,  ためし|ケン,  ゲン|馬 㑒|Tìm người (人) phù hợp (合) với ngựa (馬) để thử nghiệm (験) tốc độ
+暑|THỬ|Nóng|N4|12|あつ.い|ショ|日 者|Dưới ánh mặt trời (日) tác giả ( 者) đứng để thử sức nóng (暑)
+刀|ĐAO|Kiếm|N4|2|かたな,  そり|トウ||Lực (力) thừa, đao (刀) thụt
+奥|ÁO|Bên trong, sâu|N4|12|おく,  おく.まる,  くま|オウ|丿 冂 米 大|Tài phiệt (ノ) ở biên giới (冂) có đống gạo (米) to (大) cất góc trong cùng (奥)
+府|PHỦ|Tỉnh, cơ quan|N4|8||フ|广 付|Mái hiên (广) được giao phó (付) cho phủ huyện (府)
+弱|NHƯỢC|Yếu|N4|10|よわ.い,  よわ.る,  よわ.まる,  よわ.める|ジャク|弓 冫|Trong cung (弓) băng (冫) giá thì trở nên yếu (弱)
+星|TINH|Ngôi sao|N4|9|ほし,  -ぼし|セイ,  ショウ|日 生|Mặt trời (日) sinh (生) ra ngôi sao (星)
+村|THÔN|Làng|N4|7|むら|ソン|木 寸|Trong thôn (村) trồng cây (木) thốn (寸)
+衣|Y|Y phục|N4|6|ころも,  きぬ,  -ぎ|イ,  エ||Lần đầu (亠) 1 (亻) người (人) mặc y phục (衣)
+谷|CỐC|Thung lũng|N4|7|たに,  きわ.まる|コク||8 (八) nhân (人) khẩu (口) sống dưới tuyệt tình cốc (谷)
+軽|KHINH|Nhẹ|N4|12|かる.い,  かろ.やか,  かろ.んじる|ケイ,  キョウ,  キン|車 圣|Xe (車) chở Thánh (圣) không được khinh nhẹ (軽)
+辺|BIÊN|Gần, xung quanh|N4|5|あた.り,  ほと.り,  -べ|ヘン|刀 辶|Vác đao (刀) đi xa (辶) tuần tra biên giới (辺)
+鉄|THIẾT|Sắt|N4|13|くろがね|テツ|金 失|Luyện vàng (金) thất bại (失) ra sắt (鉄)
+雲|VÂN|Mây|N4|12|くも,  -ぐも|ウン|雨 云|Mây (雲) mưa (雨) suốt 24 giờ (云)
+麦|MẠCH|Lúa mạch|N4|7|むぎ|バク||Ông vua lòi đầu (王) truy (夂) tìm lúa mạch (麦)
+黄|HOÀNG|Màu vàng|N4|11|き,  こ-|コウ,  オウ||Ở hàng rào (井) cỏ mọc tự do (由) vào tháng 8 (八) có màu vàng (黄)
+丸|HOÀN|Tròn|N4|3|まる,  まる.める,  まる.い|ガン|九 丶|Số 9 (九) cắt (、) đuôi thì hoàn toàn là hình tròn (丸)
+低|ĐÊ|Thấp|N4|7|ひく.い,  ひく.める,  ひく.まる|テイ|亻 氏 一|Người (亻) họ (氏) quý nhất (一) là người thấp (低) nhất
+区|KHU|Khu vực|N4|4||ク,  オウ,  コウ|匸 乂 匚|Khu vực (区) này bán tủ đựng (匚) đẹp mê (メ) hồn
+史|SỬ|Lịch sử|N4|5||シ|口 乂|Miệng (口) say mê (メ) kể về lịch sử (史)
+皿|MÃNH|Cái đĩa|N4|5|さら|ベイ||Có một cái bánh ở trên đĩa (皿)
+県|HUYỆN|Quận, huyện|N4|9|か.ける|ケン|目 小|Người trên tỉnh (県) mắt (目) Lớn (L) mắt nhỏ (小)
+短|ĐOẢN|Ngắn|N4|12|みじか.い|タン|矢 豆|Mũi tên (矢) bắn vào hạt đậu (豆) ngắn (短)
+糸|MỊCH|Sợi tơ|N4|6|いと|シ||YÊU (幺) ma đè lên chân chú TIỂU (小) bẹp dí thành sợi tơ (糸)
+細|TẾ|Nhỏ, chi tiết|N4|11|ほそ.い,  ほそ.る,  こま.か,  こま.かい|サイ|糸 田|Sợi tơ (糸) mọc trên ruộng (田) nhỏ như tế bào (細)
+緑|LỤC|Xanh lá|N4|14|みどり|リョク,  ロク|糸 彔|Sợi tơ (糸) của Em Thủy (隶) màu xanh lá cây (緑)
+練|LUYỆN|Rèn luyện|N4|14|ね.る,  ね.り|レン|糸 東|Luyện tập (練) dệt tơ (糸) ở phía đông (東)
+羽|VŨ|Lông vũ|N4|6|は,  わ,  はね|ウ||Đôi cánh có 4 cái lông
+荷|HÀ|Hành lý, gánh nặng|N4|10|に|カ|艹 何|Cô giáo Thảo (艹) có cái gì (何) trong hành lý (荷)
+虫|TRÙNG|Côn trùng|N4|6|むし|チュウ,  キ||Trung(中) nhất (一) huyền (丶) Trùng (虫)
+歴|LỊCH|Lịch sử|N4|14||レキ,  レッキ|厂 林 止|Dưới sườn núi (厂) vào rừng (林) dừng lại (止) xem lí lịch (歴)
+毛|MAO|Lông|N4|4|け|モウ||Lông (毛) ngược với tay (手)
+池|TRÌ|Ao|N4|6|いけ|チ|氵 也|Ra ao (池) nước (氵) thả C (也)
+油|DU|Dầu|N4|8|あぶら|ユ,  ユウ|氵 由|Trên mặt nước (氵) nổi tự do (由) là dầu (油)
+玉|NGỌC|Viên ngọc|N4|5|たま,  たま-,  -だま|ギョク|王|Vua (王) là chủ (丶) viên ngọc (玉)
+鳴|MINH|Hót, kêu|N4|14|な.く,  な.る,  な.らす|メイ|口 鳥|Miệng (口) con chim (鳥) đang hót (鳴)
+然|NHIÊN|Tự nhiên|N4|12|しか,  しか.り,  しか.し,  さ|ゼン,  ネン|月 犬 灬|Nguyệt (月) ôm chó (犬) bên đống lửa (灬) ngắm nhìn tự nhiên (然)
+王|VƯƠNG|Vua|N4|4||オウ,  -ノウ||1 (一) vùng đất (土) chỉ có một vua (王)
+番|PHIÊN|Lượt|N4|12|つが.い|バン|釆 田|Tới phiên (番) mình đi cắt (ノ) lúa gạo (米) dưới ruộng (田)
+科|KHOA|Ngành học|N4|9||カ|禾 斗|Lúa (禾) dùng đấu (斗) để đong rất khoa học (科)
+経|KINH|Kinh tế|N4|11|へ.る,  た.つ,  たていと,  はか.る,  のり|ケイ,  キョウ,  キン|糸 圣|Kinh doanh (経) tơ (糸) lụa một cách thần thánh (圣)
+育|DỤC|Giáo dục|N4|8|そだ.つ,  そだ.ち,  そだ.てる,  はぐく.む|イク|亠 厶 月|Đầu (亠) tư (厶) cả tháng (月) cho giáo dục (育)
+船|THUYỀN|Tàu|N4|11|ふね,  ふな-|セン|舟 㕣|Thuyền (船) chu (舟) du qua 8 (八) cửa khẩu (口)
+若|NHƯỢC|Trẻ|N4|8|わか.い,  わか-,  も.しくわ,  も.し,  も.しくは,  ごと.し|ジャク,  ニャク,  ニャ|艹 右|Cô giáo Thảo (艹) phải (右) trẻ (若)
+草|THẢO|Cỏ|N4|9|くさ,  くさ-,  -ぐさ|ソウ|艹 早|Cô giáo Thảo (艹) sáng sớm (早) đã đi cắt cỏ (草)
+薬|DƯỢC|Thuốc|N4|16|くすり|ヤク|艹 楽|Loại cỏ (艹) làm mình vui (楽) là thuốc (薬) quý
+速|TỐC|Nhanh|N4|10|はや.い,  はや-,  はや.める,  すみ.やか|ソク|束 辶|Càng thúc (束) đi xa (辶) tốc độ (速) càng nhanh
+遅|TRÌ|Trễ|N4|12|おく.れる,  おく.らす,  おそ.い|チ|尸 羊 辶|Xe chở xác chết (尸) con dê (羊) đi xa (辶) nên đến muộn (遅)
+遠|VIỄN|Xa|N4|13|とお.い|エン,  オン|袁 辶|Đến công viên (袁) còn phải đi xa (辶) xa (遠)
+部|BỘ|Bộ phận|N4|11|-べ|ブ|咅 邑|Bộ phận (音) Bồ (阝) làm việc là bộ phận (部) giỏi nhất
+都|ĐÔ|Thành phố|N4|11|みやこ|ト,  ツ|者 邑|Tác giả (者) đi chơi với Bồ (阝) ở kinh đô (都)
+酒|TỬU|Rượu|N4|10|さけ,  さか-|シュ|氵 酉|Ủ men với nước (氵) tới giờ Dậu (酉) sẽ thành rượu (酒)
+閉|BẾ|Đóng|N4|11|と.じる,  と.ざす,  し.める,  し.まる,  た.てる|ヘイ|門 才|Đứng dưới cổng (門) nói O (才) là cổng sẽ đóng (閉) lại
+降|GIÁNG|Xuống, rơi|N4|10|お.りる,  お.ろす,  ふ.る,  ふ.り,  くだ.る,  くだ.す|コウ,  ゴ|阝 夅|Bồ (阝) sau (夂) 14 (牛) năm bị giáng (降) chức
+雪|TUYẾT|Tuyết|N4|11|ゆき|セツ|雨 彐|Mưa (雨) tuyết (雪) rơi dày 3 (彐) lớp
+静|TĨNH|Yên tĩnh|N4|14|しず-,  しず.か,  しず.まる,  しず.める|セイ,  ジョウ|青 爭 争|Bầu trời xanh (青) không còn chiến tranh (争) thật tĩnh lặng (静)
+馬|MÃ|Con ngựa|N4|10|うま,  うま-,  ま|バ||Ngựa (馬) chạy 5 (5) hướng khác nhau (キ) khi lửa (灬) đốt
+園|VIÊN|Vườn|N4|13|その|エン|囗 袁|Vây quanh (囗) viên (袁) là công viên (園)
+声|THANH|Giọng, âm thanh|N4|7|こえ,  こわ-|セイ,  ショウ|士|Binh sĩ (士) thấy xác chết (尸) bị bịt miệng kêu thất thanh (声)
+太|THÁI|To, béo|N4|4|ふと.い,  ふと.る|タイ,  タ|大 丶|To (大) + lủng lẳng ( 、) = béo (太)
+夫|PHU|Chồng|N4|4|おっと,  それ|フ,  フウ,  ブ|大|Chồng (夫) cao hơn trời (天)
+妻|THÊ|Vợ|N4|8|つま|サイ|彐 女|Lấy 10 (十) Em (ヨ) gái (女) về làm vợ (妻)
+宅|TRẠCH|Nhà ở|N4|6||タク|宀 乇|Nhà ở (宅) chỗ mái (宀) cần 17 (モ) cột chống
+客|KHÁCH|Khách|N4|9||キャク,  カク|宀 各|Dưới mái nhà (宀) các (各) vị  khách (客) đang ngồi quây dưới chiếu
+宿|TÚC|Ở, trọ|N4|11|やど,  やど.る,  やど.す|シュク|宀 佰|Dưới mái nhà (宀) số người (亻) là 100 (百) muốn thuê nhà trọ (宿)
+寒|HÀN|Lạnh|N4|12|さむ.い|カン|宀 三 八 冫|Dưới mái nhà (宀) chỗ cái giếng (井) số 18 (ー儿) có băng (゛) lạnh (寒)
+市|THỊ|Thành phố|N4|5|いち|シ|亠 巾|Đầu (亠) quàng khăn (巾) là người thành phố (市)
+当|ĐƯƠNG|Đương thời, hiện tại|N4|6|あ.たる,  あ.たり,  あ.てる,  あ.て,  まさ.に,  まさ.にべし|トウ|小 彐|Tiểu (小) cô nương! Em (ヨ) đương nhiên (当) rất xinh đẹp!
+乗|THỪA|Lên xe, cưỡi|N4|9|の.る,  -の.り,  の.せる|ジョウ,  ショウ|千 木|Mang 1000 (千) cỏ (艹) cây (木) thừa lên xe (乗)
+交|GIAO|Giao lưu, trao đổi|N4|6|まじ.わる,  まじ.える,  ま.じる,  まじ.る,  ま.ざる,  ま.ぜる,  -か.う,  か.わす,  かわ.す,  こもごも|コウ|亠 父|Lần đầu (亠) cùng bố (父) vợ giao lưu (交)
+便|TIỆN|Tiện lợi|N4|9|たよ.り|ベン,  ビン|亻 更|Người (亻) mới (更) tiện (便) để sai bảo
+働|ĐỘNG|Làm việc|N4|13|はたら.く|ドウ|亻 動|Người (亻) chuyển động (動) khi đang lao động (働)
+光|QUANG|Ánh sáng|N4|6|ひか.る,  ひかり|コウ|小 兀|Tiểu (小) cô nương có 1 (一) cặp chân (儿) trắng sáng (光)
+利|LỢI|Lợi ích|N4|7|き.く|リ|禾 刂|Cắt lúa (禾) bằng đao (刂) rất tiện lợi (利)
+化|HÓA|Biến hóa|N4|4|ば.ける,  ば.かす,  ふ.ける,  け.する|カ,  ケ|亻 匕|Người đứng (亻) cười hihi (ヒ) là hóa (化) điên
+原|NGUYÊN|Gốc, nguyên nhân|N4|10|はら|ゲン|厂|Thảo nguyên (原) bao trùm bởi những sườn núi (厂) màu trắng (白) nho nhỏ (小)
+号|HIỆU|Số, ký hiệu|N4|5|さけ.ぶ,  よびな|ゴウ|口 一|Miệng (口) 5 (ち) lần hô hiệu lệnh (号)
+合|HỢP|Hợp lại|N4|6|あ.う,  -あ.う,  あ.い,  あい-,  -あ.い,  -あい,  あ.わす,  あ.わせる,  -あ.わせる|ゴウ,  ガッ,  カッ|𠆢 一 口|Người (𠆢) có 1 (一) miệng (口) là hợp (合) lý
+所|SỞ|Nơi|N4|8|ところ,  -ところ,  どころ,  とこ|ショ|戸 斤|Phá cửa ( 戸) bằng Rìu (斤)  để xây cơ SỞ (所) mới
+才|TÀI|Tài năng|N4|3||サイ|扌|Ô (才) thiên tài (才)
+政|CHÍNH|Chính trị|N4|9|まつりごと,  まん|セイ,  ショウ|正 攵|Làm chính trị (政) mà không chính xác (正) sẽ bị đánh (夂) đòn
+数|SỐ|Số lượng|N4|13|かず,  かぞ.える,  しばしば,  せ.める,  わずらわ.しい|スウ,  ス,  サク,  ソク,  シュ|娄 攵|Sau khi say rượu gạo (米) phụ nữ (女) đánh (攵) chồng lấy có số (数) má
+晩|VÃN|Tối|N4|12||バン|日 免|Ngày (日) miễn (免) tội đi chơi đến tối (晩)
+晴|TÌNH|Trời trong, nắng|N4|12|は.れる,  は.れ,  は.れ-,  -ば.れ,  は.らす|セイ|日 青|Ngày (日) trong xanh (青) là trời nắng (晴)
+様|DẠNG|Dáng vẻ, cách thức|N4|14|さま,  さん|ヨウ,  ショウ|木 羊 氺|Hình dạng (様) cây (木) dương (羊) xỉ mọc dưới nước (水) rất đặc biệt
+治|TRỊ|Trị bệnh, quản lý|N4|8|おさ.める,  おさ.まる,  なお.る,  なお.す|ジ,  チ|氵 台|Dùng nước (氵) ở vũ đài (台) để trị liệu (治)
+済|TẾ|Kinh tế, cứu giúp|N4|11|す.む,  -ず.み,  -ずみ,  す.まない,  す.ます,  -す.ます,  すく.う,  な.す,  わたし,  わた.る|サイ,  セイ|氵 斉|Nước (氵) Tề (斉) kinh tế (済) rất mạnh
+白|BẠCH|Màu trắng|N4|5|しろ,  しら-,  しろ.い|ハク,  ビャク||Sang Nhật (日) thì trắng (白)
+語|NGỮ|Ngôn ngữ|N4|14|かた.る,  かた.らう|ゴ|言 吾|Lời nói (言) của ta (吾)là ngôn ngữ (語)
+前|TIỀN|Trước|N4|9|まえ,  -まえ|ゼン|八 月 刂|Cỏ (䒑) mọc ngày trăng (月) dùng dao (刂) cắt bán lấy tiền (前)
+午|NGỌ|Trưa|N4|4|うま|ゴ|丿 干 正|Người nằm (𠂉) đến 10 (十) giờ trưa (午)
+国|QUỐC|Đất nước|N4|8|くに|コク|囗 玉|Vây quanh (口) bảo vệ viên ngọc (玉) quý của quốc gia (国)
+天|THIÊN|Trời|N4|4|あまつ,  あめ,  あま-|テン|大 一|1 (一) thứ to (大) nhất là trời (天)
+後|HẬU|Sau|N4|9|のち,  うし.ろ,  うしろ,  あと,  おく.れる|ゴ,  コウ|彳 幺 夂|2 người (彳) yêu (幺) sau (夂) (後) cùng lại chia tay
+毎|MỖI|Mỗi|N4|6|ごと,  -ごと.に|マイ|丿 毋 𠂉 母|Con người đừng nằm (𠂉) vô (毋) ích mỗi (毎) ngày

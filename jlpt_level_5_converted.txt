@@ -1,0 +1,116 @@
+雨|VŨ|Mưa|N5|8|あめ,  あま-,  -さめ|ウ||Một (一) tia (〡) giáng xuống biên giới (冂), hàng vạn hạt (丶) mưa (雨) đã rơi
+電|ĐIỆN|Điện|N5|13||デン|雨 日|Mưa (雨) ngày (日) càng Lớn (L) làm đứt dây điện (電)
+食|THỰC|Ăn|N5|9|く.う,  く.らう,  た.べる,  は.む|ショク,  ジキ|𠆢 良|Người (𠆢) tốt (良) nhất sẽ được ăn (食) ngon
+高|CAO|Cao, đắt|N5|10|たか.い,  たか,  -だか,  たか.まる,  たか.める|コウ|亠 口 冂|Lúc đầu (亠) to mồm (口) nhưng bị bán qua biên giới (冂) thì mồm (口) không cao (高) ngạo được nữa
+一|NHẤT|Một|N5|1|ひと-,  ひと.つ|イチ,  イツ||1 (一) bước sang ngang
+七|THẤT|Bảy|N5|2|なな,  なな.つ,  なの|シチ|一 乙|Giống số 7 ngược
+万|VẠN|Mười nghìn|N5|3|よろず|マン,  バン|一 勹|1 (一) bao (勹) thóc giá 1 vạn (万)
+三|TAM|Ba|N5|3|み,  み.つ,  みっ.つ|サン,  ゾウ|一|3 (三) bước sang ngang
+上|THƯỢNG|Trên|N5|3|うえ,  -うえ,  うわ-,  かみ,  あ.げる,  -あ.げる,  あ.がる,  -あ.がる,  あ.がり,  -あ.がり,  のぼ.る,  のぼ.り,  のぼ.せる,  のぼ.す,  たてまつ.る|ジョウ,  ショウ,  シャン|卜 一|Bốc (卜) 1 (一) quẻ lên (上) xem vận mệnh
+下|HẠ|Dưới|N5|3|した,  しも,  もと,  さ.げる,  さ.がる,  くだ.る,  くだ.り,  くだ.す,  -くだ.す,  くだ.さる,  お.ろす,  お.りる|カ,  ゲ|一 卜|1 (一) lần coi bói (卜) là hạ (下) mình
+中|TRUNG|Giữa, bên trong|N5|4|なか,  うち,  あた.る|チュウ|口 丨|Miệng (口) nói thẳng (丨) vào trung tâm (中) của vấn đề
+九|CỬU|Chín|N5|2|ここの,  ここの.つ|キュウ,  ク|丿 乙|Bạn Cáo có chín đuôi (九), bạn Lực cụp đuôi (力)
+二|NHỊ|Hai|N5|2|ふた,  ふた.つ,  ふたたび|ニ,  ジ|一|2 (二) bước sang ngang
+五|NGŨ|Năm|N5|4|いつ,  いつ.つ|ゴ||Leo từ tầng (Ｔ) 1 (ユ) đến tầng 5 (五)
+人|NHÂN|Người|N5|2|ひと,  -り,  -と|ジン,  ニン||Người (人) đang đội nón
+今|KIM|Hiện tại, bây giờ|N5|4|いま|コン,  キン|人 一|Người (𠆢) RA (ラ) xem bây giờ (今) là mấy giờ?
+休|HƯU|Nghỉ ngơi|N5|6|やす.む,  やす.まる,  やす.める|キュウ|亻 木|Người đứng (亻) cạnh cây (木) để nghỉ ngơi (休)
+何|HÀ|Gì, cái gì|N5|7|なに,  なん,  なに-,  なん-|カ|亻 可|Người (亻) có khả năng (可) làm cái gì (何)?
+先|TIÊN|Trước, tiên sinh|N5|6|さき,  ま.ず|セン|丿 土 儿|Tài phiệt (丿) bán đất (土) tháo chạy (儿) trước (先) biến động thị trường
+生|SINH|Học sinh|N5|5|い.きる,  い.かす,  い.ける,  う.まれる,  うま.れる,  う.まれ,  うまれ,  う.む,  お.う,  は.える,  は.やす,  き,  なま,  なま-,  な.る,  な.す,  む.す,  -う|セイ,  ショウ||Học sinh (生) nằm (𠂉) ra đất (土) ngủ
+男|NAM|Đàn ông|N5|7|おとこ,  お|ダン,  ナン|田 力|Làm ruộng (田) phải có sức lực (力) của đàn ông (男)
+百|BÁCH|Một trăm|N5|6|もも|ヒャク,  ビャク|一 白|Trắng (白) nhất (一) cuộc thi là người được 100 (百) điểm
+聞|VĂN|Nghe|N5|14|き.く,  き.こえる|ブン,  モン|門 耳|Đứng dưới cổng (門) vểnh tai (耳) nghe (聞)
+行|HÀNH|Đi, ngân hàng|N5|6|い.く,  ゆ.く,  -ゆ.き,  -ゆき,  -い.き,  -いき,  おこな.う,  おこ.なう|コウ,  ギョウ,  アン|彳 一 丁|2 người (彳) bị dẫm vào 1 (ー) cái đinh (丁) khi đi bộ hành (行)
+西|TÂY|Phía tây|N5|6|にし|セイ,  サイ,  ス|一 口 儿|1 (一) cái miệng (口) đi chơi xa (儿) tận trời Tây (西) là hư hỏng
+見|KIẾN|Nhìn|N5|7|み.る,  み.える,  み.せる|ケン|目 儿|Kiến nhìn (見) bằng mắt (目) chân chạy (儿) rất nhanh
+話|THOẠI|Hội thoại, đàm thoại|N5|13|はな.す,  はなし|ワ|言 舌|Lời nói (言) qua cái lưỡi (舌) thành hội thoại (話)
+読|ĐỘC|Đọc|N5|14|よ.む,  -よ.み|ドク,  トク,  トウ|言 売|Lời nói (言) của người bán (売) được đọc (読) từ sách kinh doanh
+車|XA|Xe|N5|7|くるま|シャ||2 (二) ngày (日) làm xong 1 (丨) chiếc xe (車)
+金|KIM|Kim loại, tiền, vàng|N5|8|かね,  かな-,  -がね|キン,  コン,  ゴン||Người (𠆢) làm vua (王) có 2 (丷) túi tiền vàng (金)
+長|TRƯỜNG|Dài|N5|8|なが.い,  おさ|チョウ||Em (E) mặc y phục (衣) dài (長)
+間|GIAN|Khoảng, thời gian|N5|12|あいだ,  ま,  あい|カン,  ケン|門 日|Cổng (門) ở Nhật (日) là cánh cổng thời gian (間)
+入|NHẬP|Vào|N5|2|い.る,  -い.る,  -い.り,  い.れる,  -い.れ,  はい.る|ニュウ,  ジュ||Nhập (入) ngược với Nhân (人)
+八|BÁT|Tám|N5|2|や,  や.つ,  やっ.つ,  よう|ハチ,  ハツ||Chân đi chữ bát (八)
+六|LỤC|Sáu|N5|4|む,  む.つ,  むっ.つ,  むい|ロク,  リク|亠 八|Đầu (亠) năm phát (八 - Bát đọc lái thành Phát) Lộc (六 - Lục đọc lái thành Lộc)
+円|VIÊN|Tiền Yên|N5|4|まる.い,  まる,  まど,  まど.か,  まろ.やか|エン|冂|Ở biên giới (冂) chỉ tiêu (丄) tiên Yên (円)
+出|XUẤT|Ra, xuất phát|N5|5|で.る,  -で,  だ.す,  -だ.す,  い.でる,  い.だす|シュツ,  スイ|山|Bị 2 ngọn núi (山) đè nên không thể xuất (出) ra được
+北|BẮC|Phía Bắc|N5|5|きた|ホク|丬 匕|Dựa tường (丬) dùng thìa (匕) xúc cơm nhìn về Bắc (北) Hải Đạo
+十|THẬP|Mười|N5|2|とお,  と,  そ|ジュウ,  ジッ,  ジュッ|一 丨|Gạch ngang (一) gạch dọc (丨) ra số 10 (十)
+千|THIÊN|Một nghìn|N5|3|ち|セン|丿 十|Phẩy sang trái (丿) 1 nét trên đầu số 10 (十) mà nó đã thành 1000 (千)
+半|BÁN|Một nửa|N5|5|なか.ば|ハン|二 十 丶|2 (丷) 2 (ニ) chia (丨) nửa (半) bằng?
+南|NAM|Phía Nam|N5|9|みなみ|ナン,  ナ|十 冂 干|Ở phía Nam (南) có 10 (十) người ra biên giới (冂) nhặt tiền Yên (￥)
+友|HỮU|Bạn bè|N5|4|とも|ユウ|𠂇 又|1 (一) tài Phiệt (丿) lại (又) có bạn (友) mới
+右|HỮU|Phải|N5|5|みぎ|ウ,  ユウ|口|1 (一) tài Phiệt (丿) miệng (口) nói toàn điều phải (右)
+名|DANH|Tên|N5|6|な,  -な|メイ,  ミョウ|夕 口|TA (夕) RO (ロ) là tên (名) rất thông dụng
+四|TỨ|Bốn|N5|5|よ,  よ.つ,  よっ.つ,  よん|シ|囗 儿|Người vây quanh (囗) chân chạy (儿) bốn (四) phía
+土|THỔ|Đất|N5|3|つち|ド,  ト|十 一|Cắm cây thập (十) xuống 1 (一) mảnh đất (土)
+外|NGOẠI|Bên ngoài|N5|5|そと,  ほか,  はず.す,  はず.れる,  と-|ガイ,  ゲ|夕 卜|Tatoo (夕) (ト) xuất phát từ ngoại quốc (外)
+大|ĐẠI|To, lớn|N5|3|おお-,  おお.きい,  -おお.いに|ダイ,  タイ|一 人|1 (一) người (人) to lớn (大)
+女|NỮ|Phụ nữ|N5|3|おんな,  め|ジョ,  ニョ,  ニョウ||Em nhỏ (く) lớn (フ) lên thành phụ nữ (女)
+子|TỬ|Con|N5|3|こ,  -こ,  ね|シ,  ス,  ツ|了 一|Kết thúc (了) 1 (一) cuộc tình đẹp là có đứa con (子)
+学|HỌC|Học|N5|8|まな.ぶ|ガク|小 冖 子|3 (⺍) đêm trùm khăn (冖) con (子) đều học tập (学) chăm chỉ
+小|TIỂU|Nhỏ|N5|3|ちい.さい,  こ-,  お-,  さ-|ショウ||Quyết (亅) tâm cắt đôi số 8 (ハ) để chia nhỏ (小)
+山|SƠN|Núi|N5|3|やま|サン,  セン||3 cây chụm lại nên hòn núi cao (山)
+川|XUYÊN|Sông|N5|3|かわ|セン|巛|Hình dòng sông (川)
+左|TẢ|Trái|N5|5|ひだり|サ,  シャ|一 丿 工|1 (一) tài Phiệt (丿) vận công (工) bằng tay trái (左)
+年|NIÊN|Năm|N5|6|とし|ネン|𠂉 牛|Nằm (𠂉) suốt 14 (牛) năm (年)
+日|NHẬT|Ngày (mặt trời)|N5|4|ひ,  -び,  -か|ニチ,  ジツ||Mặt trời giống Hình Chữ Nhật (ロ), bị chia làm đôi (一), nửa trên là Ngày (日), nửa dưới là đêm
+時|THỜI|Thời gian, giờ|N5|10|とき,  -どき|ジ|日 寺|Dành thời gian (時) cả ngày (日) trên chùa (寺)
+書|THƯ|Sách, viết|N5|10|か.く,  -が.き,  -がき|ショ|聿 日|Bút (聿) Nhật (日) viết (書) rất đẹp
+月|NGUYỆT|Mặt trăng|N5|4|つき|ゲツ,  ガツ||Hình Mặt Trăng
+木|MỘC|Cây|N5|4|き,  こ-|ボク,  モク||Hình cái cây (木)
+本|BẢN|Gốc, sách|N5|5|もと|ホン|木 一|Mỗi cây (木) chỉ có 1 (一) gốc (本)
+来|LAI|Đến|N5|7|く.る,  きた.る,  きた.す,  き.たす,  き.たる,  き,  こ|ライ,  タイ|一 米|1 (一) loại gạo (米) mới sẽ ra đời trong tương lai (来)
+東|ĐÔNG|Phía Đông|N5|8|ひがし|トウ|日 木|Mặt trời (日) lấp ló sau cây (木) ở phía đông (東)
+校|HIỆU|Trường học|N5|10||コウ,  キョウ|木 交|Cây (木) được giao (交) cho thầy Hiệu (校) trưởng
+母|MẪU|Mẹ|N5|5|はは,  も|ボ|毋|Từ nhỏ (く) đến lớn (フ) 2 (丶丶) đứa con được 1 (一) mình mẹ (母) chăm sóc
+気|KHÍ|Không khí|N5|6|いき,  き|キ,  ケ|气 乂|Khí (气) mà mọi người đều mê (メ) là không khí (気)
+水|THỦY|Nước|N5|4|みず,  みず-|スイ||Hình giọt nước bắn sang 2 bên (水)
+火|HỎA|Lửa|N5|4|ひ,  -び,  ほ-|カ||2 (丷) tay người (人) vùng vẫy để thoát khỏi đám lửa (火)
+父|PHỤ|Bố|N5|4|ちち|フ|八 乂|Thế hệ 8 (ハ) X (乂) là Bố (父)
+寺|TỰ|Chùa|N5|6|てら|ジ|土 寸|Đất (土) thốn (寸) không được xây chùa (寺)
+岩|NHAM|Núi đá|N5|8|いわ|ガン|山 石|Núi (山) đá (石) hình thành từ nham thạch (岩)
+林|LÂM|Rừng thưa|N5|8|はやし|リン|木|2 cây (木) là rừng thưa (林)
+貝|BỐI|Bảo bối, con sò|N5|7|かい|バイ||Mắt (目) mở to khi nhìn thấy 8 (ハ) bảo bối (貝) quý hiếm
+門|MÔN|Cổng|N5|8|かど,  と|モン||Hình 2 cánh cổng (門)
+竹|TRÚC|Tre trúc|N5|6|たけ|チク||Tiếng cười keke (ケケ) phát ra từ bụi trúc (竹)
+森|SÂM|Rừng rậm|N5|12|もり|シン|木 林|3 cây (木) là rừng rậm (森)
+石|THẠCH|Đá|N5|5|いし|セキ,  シャク,  コク|一 丿 口|1 (一) tài Phiệt (丿) phải có miệng (口) sắt đá (石)
+米|MỄ|Gạo|N5|6|こめ,  よね|ベイ,  マイ,  メエトル||2 (丷) hạt phía trên cây (木) là hạt gạo (米)
+耳|NHĨ|Cái tai|N5|6|みみ|ジ||Tai (耳) gần giống mắt (目)
+好|HẢO|Thích|N5|6|この.む,  す.く,  よ.い,  い.い|コウ|女 子|Đàn ông thích (好) phụ nữ (女) và trẻ con (子)
+内|NỘI|Bên trong|N5|4|うち|ナイ,  ダイ|冂 人|Bên trong (内) biên giới (冂) mọi người (人) thường sống hướng nội
+暗|ÁM|Tối|N5|13|くら.い,  くら.む,  くれ.る|アン|日 音|Ở Nhật (日) âm thanh (音) ồn ảo từ sáng đến tối (暗)
+泳|VỊNH|Bơi|N5|8|およ.ぐ|エイ|氵 永|Nước (氵) vĩnh cửu (永) dùng để bơi (泳)
+手|THỦ|Cái tay|N5|4|て,  て-,  -て,  た-|シュ,  ズ|三 亅|3 (三) thể hiện quyết (亅) tâm bằng tay (手)
+新|TÂN|Mới|N5|13|あたら.しい,  あら.た,  あら-,  にい-|シン|立 木 斤|Đứng (立) trên cây (木) khoe cái rìu (斤) mới (新)
+方|PHƯƠNG|Phương hướng|N5|4|かた,  -かた,  -がた|ホウ|亠 勹|Dùng đầu (亠) đội bao (勹) đi bốn phương (方)
+明|MINH|Sáng|N5|8|あ.かり,  あか.るい,  あか.るむ,  あか.らむ,  あき.らか,  あ.ける,  -あ.け,  あ.く,  あ.くる,  あ.かす|メイ,  ミョウ,  ミン|日 月|Mặt Trời (日) và Mặt Trăng (月) đều rất sáng (明)
+牛|NGƯU|Trâu bò|N5|4|うし|ギュウ||Con bò (牛) mọc sừng vào đúng giờ Ngọ (午)
+物|VẬT|Vật, đồ vật|N5|8|もの,  もの-|ブツ,  モツ|牛 勿|Bò (牛) + vật (勿) = Động vật (物)
+犬|KHUYỂN|Con chó|N5|4|いぬ,  いぬ-|ケン|丶 大|Chấm (丶) to (大) ở lưỡi là chó (犬) khôn
+体|THỂ|Cơ thể|N5|7|からだ,  かたち|タイ,  テイ|亻 本|Nhân (亻) bản (本) cơ thể (体)
+元|NGUYÊN|Nguồn gốc|N5|4|もと|ゲン,  ガン|二 儿|2 (二) chân (儿) vẫn còn nguyên (元)
+口|KHẨU|Cái miệng|N5|3|くち|コウ,  ク||Miệng (口) há ra nói lời cay độc
+古|CỔ|Cổ, cũ|N5|5|ふる.い,  ふる-,  -ふる.す|コ|十 口|Câu chuyện qua 10 (十) cái miệng (ロ) trở thành truyện cổ (古)
+田|ĐIỀN|Ruộng|N5|5|た|デン||Hình ruộng lúa (田)
+町|ĐINH|Thị trấn|N5|7|まち|チョウ|田 丁|Ra ruộng (田) dẫm phải đinh (丁) lên thị trấn (町) chữa trị
+目|MỤC|Mắt|N5|5|め,  -め,  ま-|モク,  ボク|一 日|Chớp mắt (目) hết một (一) ngày (日)
+立|LẬP|Đứng|N5|5|た.つ,  -た.つ,  た.ち-,  た.てる,  -た.てる,  た.て-,  たて-,  -た.て,  -だ.て,  -だ.てる|リツ,  リュウ,  リットル||Đầu (亠) đội trời, chân đạp đất (䒑), đứng dậy (立) lập nghiệp
+肉|NHỤC|Thịt|N5|6|しし|ニク|内 人|Bên trong (内) con người (人) là thịt (肉)
+花|HOA|Hoa|N5|7|はな|カ,  ケ|艹 化|Cỏ (艹) hóa (化) hoa (花)
+茶|TRÀ|Trà|N5|9||チャ,  サ|艹 人 木|Cô giáo Thảo (艹) là người (人) cười hô hô (ホ) khi uống trà (茶)
+言|NGÔN|Nói|N5|7|い.う,  こと|ゲン,  ゴン|一 口|Cái miệng (口) nói (言) 3 lời ngắn 1 lời dài
+夕|TỊCH|Chiều tối|N5|3|ゆう|セキ||Chiều tối còn mình ta (夕 - katakana)
+多|ĐA|Nhiều|N5|6|おお.い,  まさ.に,  まさ.る|タ|夕|Hai ta (夕) là số nhiều (多)
+字|TỰ|Chữ|N5|6|あざ,  あざな,  -な|ジ|宀 子|Dưới mái nhà (宀), trẻ con (子) đang tập viết chữ (字)
+安|AN|An toàn|N5|6|やす.い,  やす.まる,  やす,  やす.らか|アン|宀 女|Dưới mái nhà (宀) phụ nữ (女) sẽ được an toàn (安)
+少|THIỂU|Ít|N5|4|すく.ない,  すこ.し|ショウ|小 丿|Đã nhỏ (小) bị lấy đi 1 (ノ) ít càng thiếu (少)
+帰|QUY|Trở về|N5|10|かえ.る,  かえ.す,  おく.る,  とつ.ぐ|キ|刂 帚|Cầm đao (刂) cầm chổi (帚) quay trở về (帰)
+買|MÃI|Mua|N5|12|か.う|バイ|罒 貝|Mua (買) võng (罒) cho bảo bối (貝) với giá khuyến mãi
+足|TÚC|Chân|N5|7|あし,  た.りる,  た.る,  た.す|ソク||Chân (足) đá tung mồm (口) hạ (下) nhân (人),
+音|ÂM|Âm thanh|N5|9|おと,  ね|オン,  イン,  -ノン|立 日|Đứng (立) ở Nhật (日) nhớ về âm thanh (音) quê hương
+飲|ẨM|Uống|N5|12|の.む,  -の.み|イン,  オン|飠 欠|Ăn (食) thì không thể thiếu (欠) uống (飲)
+魚|NGƯ|Con cá|N5|11|うお,  さかな,  -ざかな|ギョ||Móc (ク) dưới ruộng (田) rồi đốt lửa (灬) nướng cá (魚)
+鳥|ĐIỂU|Con chim|N5|11|とり|チョウ||Ô con quạ (烏) đen biến thành con chim (鳥) trắng

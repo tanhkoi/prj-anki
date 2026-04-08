@@ -1,0 +1,355 @@
+髪 - | Tóc | N2 | 14 | かみ | ハツCấu tạo từ các bộ thủ: 髟 友 | 髟 友 | Tóc (髪) dài (長) là tóc (彡) bạn (友)
+鳴 - | Hót, kêu | N4 | 14 | な.く,  な.る,  な.らす | メイCấu tạo từ các bộ thủ: 口 鳥 | 口 鳥 | Miệng (口) con chim (鳥) đang hót (鳴)
+点 - | Điểm số | N3 | 9 | つ.ける,  つ.く,  た.てる,  さ.す,  とぼ.す,  とも.す,  ぼち | テンCấu tạo từ các bộ thủ: 占 灬 | 占 灬 | Chiếm (占) nhà phóng hỏa (灬) là do có kẻ chỉ điểm (点)
+然 - | Tự nhiên | N4 | 12 | しか,  しか.り,  しか.し,  さ | ゼン,  ネンCấu tạo từ các bộ thủ: 月 犬 灬 | 月 犬 灬 | Nguyệt (月) ôm chó (犬) bên đống lửa (灬) ngắm nhìn tự nhiên (然)
+煙 - | Khói | N2 | 13 | けむ.る,  けむり,  けむ.い | エンCấu tạo từ các bộ thủ: 火 垔 | 火 垔 | Lửa (火) phía tây (西) đốt đất (士) bốc khói (煙)
+熱 - | Nóng | N3 | 15 | あつ.い | ネツCấu tạo từ các bộ thủ: 埶 灬 | 埶 灬 | Tiên sinh (先) chân đất (土) đi trong vòng tròn (丸) lửa (灬) nên thấy nóng (熱)
+犯 - | Phạm tội | N3 | 5 | おか.す | ハン,  ボンCấu tạo từ các bộ thủ: 犭 㔾 | 犭 㔾 | Bắt chó (犭) ăn C (已) là phạm tội (犯)
+状 - | Trạng thái | N2 | 7 |  | ジョウCấu tạo từ các bộ thủ: 丬 犬 | 丬 犬 | Đứng cạnh tường (丬) con chó (犬) có trạng thái (状) lạ
+猫 - | Con mèo | N2 | 11 | ねこ | ビョウCấu tạo từ các bộ thủ: 犭 苗 | 犭 苗 | Con chó (犭) ăn cây non (苗) biến thành con mèo (猫)
+現 - | Hiện thực | N3 | 11 | あらわ.れる,  あらわ.す,  うつつ,  うつ.つ | ゲンCấu tạo từ các bộ thủ: 王 見 | 王 見 | Vua (王) nhìn (見) vào hiện thực (現) đất nước
+球 - | Địa cầu | N3 | 11 | たま | キュウCấu tạo từ các bộ thủ: 王 求 | 王 求 | Vua (王) yêu cầu (求) có cả địa cầu (球)
+産 - | Sinh sản | N3 | 11 | う.む,  う.まれる,  うぶ-,  む.す | サンCấu tạo từ các bộ thủ: 立 厂 生 | 立 厂 生 | Đứng (立) trên sười núi (厂) sinh (生) sản (産)
+由 - | Tự do | N3 | 5 | よし,  よ.る | ユ,  ユウ,  ユイCấu tạo từ các bộ thủ: 日 丨 田 | 日 丨 田 | Trên ruộng (田) cắm cọc (l) tự do (由)
+申 - | Gọi tên | N2 | 5 | もう.す,  もう.し-,  さる | シンCấu tạo từ các bộ thủ: 日 丨 | 日 丨 | Ngày (日) anh 1 (丨) mình hãy gọi tên (申) em!
+留 - | Lưu lại | N3 | 10 | と.める,  と.まる,  とど.める,  とど.まる,  るうぶる | リュウ,  ルCấu tạo từ các bộ thủ: 卯 田 | 卯 田 | Cầm đao (刀) ra ruộng (田) lưu lại (留) kỷ niệm
+番 - | Lượt | N4 | 12 | つが.い | バンCấu tạo từ các bộ thủ: 釆 田 | 釆 田 | Tới phiên (番) mình đi cắt (ノ) lúa gạo (米) dưới ruộng (田)
+疑 - | Nghi ngờ | N3 | 14 | うたが.う | ギCấu tạo từ các bộ thủ: 匕 矢 マ 疋 | 匕 矢 マ 疋 | Cười Hihi (匕) cầm mũi tên (矢), con MA (マ) làm hạ (下) nhân (人) nghi ngờ (疑)
+疲 - | Mệt mỏi | N2 | 10 | つか.れる,  -づか.れ,  つか.らす | ヒCấu tạo từ các bộ thủ: 疒 皮 | 疒 皮 | Bị bệnh (疒) ngoài da (皮) rất mệt mỏi (疲)
+痛 - | Đau | N3 | 12 | いた.い,  いた.む,  いた.ましい,  いた.める | ツウCấu tạo từ các bộ thủ: 疒 甬 | 疒 甬 | Bệnh (疒) của ma (々) phải sử dụng (用) đến thuốc giảm đau (痛)
+登 - | Đăng kí | N3 | 12 | のぼ.る,  あ.がる | トウ,  ト,  ドウ,  ショウ,  チョウCấu tạo từ các bộ thủ: 癶 豆 | 癶 豆 | Đăng ký (登) sẽ được bát (癶) đậu (豆)
+皆 - | Mọi người | N2 | 9 | みな,  みんな | カイCấu tạo từ các bộ thủ: 比 白 | 比 白 | Tỉ (比) trắng (白) nhất trong tất cả mọi người (皆)
+盗 - | Đạo tặc | N2 | 11 | ぬす.む,  ぬす.み | トウCấu tạo từ các bộ thủ: 次 皿 | 次 皿 | Đạo tặc (盗) tiếp theo (次) sẽ ăn trộm cái đĩa (皿) cổ
+直 - | Trực tiếp | N3 | 8 | ただ.ちに,  なお.す,  -なお.す,  なお.る,  なお.き,  す.ぐ | チョク,  ジキ,  ジカCấu tạo từ các bộ thủ: 十 目 | 十 目 | 10 (十) mắt (目) Lớn (L) nhìn trực tiếp (直)
+相 - | Tương tự/ thủ tướng | N3 | 9 | あい- | ソウ,  ショウCấu tạo từ các bộ thủ: 木 目 | 木 目 | Cây (木) có mắt (目) tương tự (相) nhau
+眠 - | Ngủ | N2 | 10 | ねむ.る,  ねむ.い | ミンCấu tạo từ các bộ thủ: 目 民 | 目 民 | Nhắm mắt (目) dân chúng (民) ngủ (眠) miên man
+石 - | Đá | N5 | 5 | いし | セキ,  シャク,  コクCấu tạo từ các bộ thủ: 一 丿 口 | 一 丿 口 | 1 (一) tài Phiệt (丿) phải có miệng (口) sắt đá (石)
+破 - | Phá rách | N2 | 10 | やぶ.る,  やぶ.れる,  わ.れる | ハCấu tạo từ các bộ thủ: 石 皮 | 石 皮 | Đá (石) rạch vào da (皮) thì chả rách (破)
+確 - | Chính xác | N3 | 15 | たし.か,  たし.かめる | カク,  コウCấu tạo từ các bộ thủ: 石 寉 | 石 寉 | Cầm đá (石) trùm khăn (冖) vẫn ném chim (隹) chính xác (確)
+礼 - | Lễ nghi | N3 | 5 |  | レイ,  ライCấu tạo từ các bộ thủ: 礻 乙 | 礻 乙 | Mang thị (衤) đi Làm (L) lễ (礼)
+祖 - | Tổ tiên | N2 | 9 |  | ソCấu tạo từ các bộ thủ: 礻 且 | 礻 且 | Tổ tiên (祖) chỉ thị (ネ) không được sống buông thả (且)
+神 - | Thần thánh | N3 | 9 | かみ,  かん-,  こう- | シン,  ジンCấu tạo từ các bộ thủ: 示 申 礻 | 示 申 礻 | Mang quả thị (ネ) đến làm thân (申) với thần (神)
+福 - | Hạnh phúc | N3 | 13 |  | フクCấu tạo từ các bộ thủ: 礻 畐 | 礻 畐 | Ở thị (ネ) xã có 10 (ō) mẫu ruộng (田) là hạnh phúc (福) lắm rồi!
+科 - | Ngành học | N4 | 9 |  | カCấu tạo từ các bộ thủ: 禾 斗 | 禾 斗 | Lúa (禾) dùng đấu (斗) để đong rất khoa học (科)
+程 - | Trình độ | N3 | 12 | ほど,  -ほど | テイCấu tạo từ các bộ thủ: 禾 呈 | 禾 呈 | Hòa (禾) trình bày (呈) rất có trình độ (程)
+種 - | Chủng loại | N3 | 14 | たね,  -ぐさ | シュCấu tạo từ các bộ thủ: 禾 重 | 禾 重 | Lúa (禾) có trọng (重) lượng khác nhau do chủng loại (種)
+積 - | Tích trữ | N3 | 16 | つ.む,  -づ.み,  つ.もる,  つ.もり | セキCấu tạo từ các bộ thủ: 禾 責 | 禾 責 | Tích trữ (積) lúa (禾) là trách nhiệm (責) của người nông dân
+突 - | Đột nhiên | N3 | 8 | つ.く | トツ,  カCấu tạo từ các bộ thủ: 穴 大 | 穴 大 | Đột nhiên (突) cái lỗ (穴) to (大) ra
+窓 - | Cửa sổ | N3 | 11 | まど,  てんまど,  けむだし | ソウ,  スCấu tạo từ các bộ thủ: 穴 厶 心 | 穴 厶 心 | Dưới mái nhà (宀) làm việc công (公) tâm (心) bên cửa sổ (窓)
+笑 - | Cười | N3 | 10 | わら.う,  え.む | ショウCấu tạo từ các bộ thủ: 竹 夭 | 竹 夭 | Trong rừng trúc (竹) yêu (天) quái đang cười (笑)
+等 - | Bình đẳng | N3 | 12 | ひと.しい,  など,  -ら | トウCấu tạo từ các bộ thủ: 竹 寺 | 竹 寺 | Trúc (竹) trên chùa (寺) được đối xử bình đẳng (等)
+箱 - | Cái hộp | N3 | 15 | はこ | ソウCấu tạo từ các bộ thủ: 竹 相 | 竹 相 | Cây trúc (竹) tương tự (相) nhau dùng làm hộp (箱)
+精 - | Tinh luyện | N2 | 14 | しら.げる,  くわ.しい | セイ,  ショウCấu tạo từ các bộ thủ: 米 青 | 米 青 | Gạo (米) xanh (青) đã qua tinh luyện (精)
+約 - | Giao ước | N3 | 9 | つづ.まる,  つづ.める,  つづま.やか | ヤクCấu tạo từ các bộ thủ: 糸 勺 | 糸 勺 | Giao ước (約) dệt tơ (糸) không bắt chước (勺)
+組 - | Tổ chức | N3 | 11 | く.む,  くみ,  -ぐみ | ソCấu tạo từ các bộ thủ: 糸 且 | 糸 且 | Nhện nhả tơ (糸) thả (且) vào tổ (組)
+経 - | Kinh tế | N4 | 11 | へ.る,  た.つ,  たていと,  はか.る,  のり | ケイ,  キョウ,  キンCấu tạo từ các bộ thủ: 糸 圣 | 糸 圣 | Kinh doanh (経) tơ (糸) lụa một cách thần thánh (圣)
+給 - | Cung cấp | N3 | 12 | たま.う,  たも.う,  -たま.え | キュウCấu tạo từ các bộ thủ: 糸 合 | 糸 合 | Sợi tơ (糸) thích hợp (合) cung cấp (給) cho ngành dệt
+絵 - | Bức tranh | N3 | 12 |  | カイ,  エCấu tạo từ các bộ thủ: 糸 会 | 糸 会 | Sợi tơ (糸) tụ hội (会) tạo thành bức tranh (絵)
+絶 - | Tuyệt đỉnh | N2 | 12 | た.える,  た.やす,  た.つ | ゼツCấu tạo từ các bộ thủ: 糸 色 | 糸 色 | Sợi tơ (糸) màu sắc (色) đẹp tuyệt (絶)
+続 - | Tiếp tục | N3 | 13 | つづ.く,  つづ.ける,  つぐ.ない | ゾク,  ショク,  コウ,  キョウCấu tạo từ các bộ thủ: 糸 売 | 糸 売 | Tơ (糸) lụa được bán (売) liên tục (続)
+緒 - | Cùng nhau | N2 | 14 | お,  いとぐち | ショ,  チョCấu tạo từ các bộ thủ: 糸 者 | 糸 者 | Cùng nhau (緒) dệt tơ (糸) với tác giả (者)
+罪 - | Tội phạm | N3 | 13 | つみ | ザイCấu tạo từ các bộ thủ: 罒 非 | 罒 非 | Tên tội phạm (罪) từ trên võng (皿) phi (非) xuống
+置 - | Đặt, để | N3 | 13 | お.く,  -お.き | チCấu tạo từ các bộ thủ: 罒 直 | 罒 直 | Đặt (置) mua võng (皿) trực tiếp (直)
+美 - | Đẹp | N2 | 9 | うつく.しい | ビ,  ミCấu tạo từ các bộ thủ: 𦍌 大 羊 | 𦍌 大 羊 | Con dê (羊) to (大) là đẹp (美) nhất
+老 - | Người già | N3 | 6 | お.いる,  ふ.ける | ロウCấu tạo từ các bộ thủ: 耂 | 耂 | Đứng trên đất chống gậy (者) cười Hihi (匕) là người già (老)
+職 - | Chức vụ | N3 | 18 |  | ショク,  ソクCấu tạo từ các bộ thủ: 耳 戠 | 耳 戠 | Chức vụ (職) của tai (耳) là để nghe âm thanh (音) truyền qua (戈)
+育 - | Giáo dục | N4 | 8 | そだ.つ,  そだ.ち,  そだ.てる,  はぐく.む | イクCấu tạo từ các bộ thủ: 亠 厶 月 | 亠 厶 月 | Đầu (亠) tư (厶) cả tháng (月) cho giáo dục (育)
+背 - | Lưng | N2 | 9 | せ,  せい,  そむ.く,  そむ.ける | ハイCấu tạo từ các bộ thủ: 北 月 | 北 月 | Trên lưng (背) anh Bắc (北) đang cõng chị Nguyệt (月)
+能 - | Năng lực | N3 | 10 | よ.く,  あた.う | ノウCấu tạo từ các bộ thủ: 䏍 匕 | 䏍 匕 | 4 (厶) tháng (月) liền cười hihi (匕) đúng là siêu năng lực (能)
+腹 - | Cái bụng | N2 | 13 | はら | フクCấu tạo từ các bộ thủ: 月 复 | 月 复 | Nguyệt (月) được phục (夏) vụ đồ ăn đến khi no bụng (腹)
+舞 - | Khiêu vũ | N2 | 15 | ま.う,  -ま.う,  まい | ブCấu tạo từ các bộ thủ: 丿 一 舛 | 丿 一 舛 | Có người nằm (𠂉) trên hàng rào bị hen suyễn (舛) nhưng vẫn khiêu vũ (舞)
+船 - | Tàu | N4 | 11 | ふね,  ふな- | センCấu tạo từ các bộ thủ: 舟 㕣 | 舟 㕣 | Thuyền (船) chu (舟) du qua 8 (八) cửa khẩu (口)
+良 - | Tốt | N3 | 7 | よ.い,  -よ.い,  い.い,  -い.い | リョウCấu tạo từ các bộ thủ: 艮 | 艮 | Da trắng (白) là 1 (丄) người (人) rất tốt (良)
+若 - | Trẻ | N4 | 8 | わか.い,  わか-,  も.しくわ,  も.し,  も.しくは,  ごと.し | ジャク,  ニャク,  ニャCấu tạo từ các bộ thủ: 艹 右 | 艹 右 | Cô giáo Thảo (艹) phải (右) trẻ (若)
+苦 - | Đắng | N3 | 8 | くる.しい,  -ぐる.しい,  くる.しむ,  くる.しめる,  にが.い,  にが.る | クCấu tạo từ các bộ thủ: 艹 古 | 艹 古 | Cô giáo Thảo (艹) thời cổ (古) sống rất khổ (苦)
+草 - | Cỏ | N4 | 9 | くさ,  くさ-,  -ぐさ | ソウCấu tạo từ các bộ thủ: 艹 早 | 艹 早 | Cô giáo Thảo (艹) sáng sớm (早) đã đi cắt cỏ (草)
+落 - | Rơi | N3 | 12 | お.ちる,  お.ち,  お.とす | ラクCấu tạo từ các bộ thủ: 艹 洛 | 艹 洛 | Rơi (落) lệ khi cô giáo Thảo (艹) ngã xuống nước (氵) mà các vị (各) không cứu
+葉 - | Lá cây | N3 | 12 | は | ヨウCấu tạo từ các bộ thủ: 艹 枼 | 艹 枼 | Cỏ (艹) khắp thế giới (世) cây (木) nào cũng có lá (葉)
+薬 - | Thuốc | N4 | 16 | くすり | ヤクCấu tạo từ các bộ thủ: 艹 楽 | 艹 楽 | Loại cỏ (艹) làm mình vui (楽) là thuốc (薬) quý
+術 - | Phép thuật | N3 | 11 | すべ | ジュツCấu tạo từ các bộ thủ: 行 朮 | 行 朮 | Hô (ホ) 1 (丶) tiếng tách đôi chữ hành (行) là phép thuật (術)
+表 - | Phát biểu | N3 | 8 | おもて,  -おもて,  あらわ.す,  あらわ.れる,  あら.わす | ヒョウCấu tạo từ các bộ thủ: 二 衣 丨 | 二 衣 丨 | Ông vua lòi đầu (主) mặc y phục (衣) lịch sự đứng phát biểu (表)
+要 - | Tất yếu | N3 | 9 | い.る,  かなめ | ヨウCấu tạo từ các bộ thủ: 覀 女 | 覀 女 | Ở tây (西) yêu phụ nữ (女) là tất yếu (要)
+規 - | Quy tắc | N3 | 11 |  | キCấu tạo từ các bộ thủ: 夫 見 | 夫 見 | Chồng (夫) nhìn (見) vào quy tắc (規)
+覚 - | Thị giác | N3 | 12 | おぼ.える,  さ.ます,  さ.める,  さと.る | カクCấu tạo từ các bộ thủ: 小 冖 見 | 小 冖 見 | Ba (''') đêm trùm khăn (冖) nhìn (見) để kiểm tra thị giác (覚)
+観 - | Quan sát | N3 | 18 | み.る,  しめ.す | カンCấu tạo từ các bộ thủ: 𠂉 隹 見 | 𠂉 隹 見 | Buổi trưa (午) con chim (隹) đang nhìn (見) là quan sát (観)
+解 - | Giải quyết | N3 | 13 | と.く,  と.かす,  と.ける,  ほど.く,  ほぐ.す,  わか.る,  さと.る | カイ,  ゲCấu tạo từ các bộ thủ: 角 刀 牛 | 角 刀 牛 | Vào góc (角) cầm đao (刀) bắt bò (牛) để giải quyết (解)
+記 - | Nhật kí | N3 | 10 | しる.す | キCấu tạo từ các bộ thủ: 言 己 | 言 己 | Lời nói (言) của bản thân (己) được viết vào nhật ký (記)
+訪 - | Phỏng vấn | N2 | 11 | おとず.れる,  たず.ねる,  と.う | ホウCấu tạo từ các bộ thủ: 言 方 | 言 方 | Nói chuyện (言) khắp bốn phương (方) để phỏng vấn (訪)
+許 - | Cho phép | N3 | 11 | ゆる.す,  もと | キョCấu tạo từ các bộ thủ: 言 午 | 言 午 | lời HỨA (許) thường nói (言) vào buổi trưa (午)
+認 - | Xác nhận | N3 | 14 | みと.める,  したた.める | ニンCấu tạo từ các bộ thủ: 言 忍 | 言 忍 | Lời nói (言) nhẫn nại (忍) để xác nhận (認)
+誤 - | Giác ngộ | N2 | 14 | あやま.る,  -あやま.る | ゴCấu tạo từ các bộ thủ: 言 呉 | 言 呉 | Vừa nói chuyện (言) vừa ăn ngô (呉) thì sẽ giác ngộ (誤)
+説 - | Diễn thuyết | N3 | 14 | と.く | セツ,  ゼイCấu tạo từ các bộ thủ: 言 兌 | 言 兌 | Tập nói (言) trước tivi (兌) để diễn thuyết (説)
+調 - | Điều tra | N3 | 15 | しら.べる,  しら.べ,  ととの.う,  ととの.える | チョウCấu tạo từ các bộ thủ: 言 周 | 言 周 | Miệng nói (言) chu (周) ra khi điều tra (調)
+談 - | Đàm thoại | N3 | 15 |  | ダンCấu tạo từ các bộ thủ: 言 炎 | 言 炎 | Nói (言) đến mức viêm (炎) họng vì đàm thoại (談)
+論 - | Tranh luận | N2 | 15 | あげつら.う | ロンCấu tạo từ các bộ thủ: 言 侖 | 言 侖 | Nói (言) với người trên núi Côn Lôn (侖) dễ xảy ra tranh luận (論)
+識 - | Tri thức | N3 | 19 | し.る,  しる.す | シキCấu tạo từ các bộ thủ: 言 戠 | 言 戠 | Người tri thức (諾) nói (言) ra âm thanh (音) nghe qua (戈) đã hiểu
+警 - | Cảnh sát | N2 | 19 | いまし.める | ケイCấu tạo từ các bộ thủ: 敬 言 | 敬 言 | Cần kính trọng (敬) khi nói chuyện (言) với cảnh sát (警)
+議 - | Hội nghị | N3 | 20 |  | ギCấu tạo từ các bộ thủ: 言 義 | 言 義 | Trong hội nghị (議) không được phép nói (言) lời vô nghĩa (我)
+負 - | Thua | N3 | 9 | ま.ける,  ま.かす,  お.う | フCấu tạo từ các bộ thủ: 𠂊 貝 | 𠂊 貝 | Bị móc (ク) mất bảo bối (貝) là thua (負)
+財 - | Tài sản | N2 | 10 | たから | ザイ,  サイ,  ゾクCấu tạo từ các bộ thủ: 貝 才 | 貝 才 | Bảo bối (貝) được thiên tài (才) dùng làm tài sản (財)
+貧 - | Nghèo | N3 | 11 | まず.しい | ヒン,  ビンCấu tạo từ các bộ thủ: 分 貝 | 分 貝 | Phân chia (分) hết bảo bối (貝) sẽ nghèo (貧) đi
+責 - | Trách nhiệm | N2 | 11 | せ.める | セキCấu tạo từ các bộ thủ: 龶 貝 | 龶 貝 | Ông vua lòi đầu (主) giao bảo bối (貝) phải có trách nhiệm (責) cất giữ
+費 - | Vũ khí | N3 | 12 | つい.やす,  つい.える | ヒCấu tạo từ các bộ thủ: 弗 貝 | 弗 貝 | Đổi 2 cây cung (弗) lấy bảo bối (貝) thật lãng phí (費)
+資 - | Đầu tư | N2 | 13 |  | シCấu tạo từ các bộ thủ: 次 貝 | 次 貝 | Tiếp theo (次) sẽ mang bảo bối (貝) đi đầu tư (資)
+賛 - | Tán thành | N3 | 15 | たす.ける,  たた.える | サンCấu tạo từ các bộ thủ: 夫 貝 | 夫 貝 | 2 ông chồng (夫) giơ bảo bối (貝) tán thành (賛)
+越 - | Vượtqua | N2 | 12 | こ.す,  -こ.す,  -ご.し,  こ.える,  -ご.え | エツ,  オツCấu tạo từ các bộ thủ: 走 戉 | 走 戉 | Chạy (走) thi tết Mậu Thân (戊) vượt qua (越) chướng ngại vật
+路 - | Đường | N3 | 13 | -じ,  みち | ロ,  ルCấu tạo từ các bộ thủ: 足 各 | 足 各 | Chân (足) các vị (各) đi trên đường (路) lộ
+辞 - | Từ điển | N3 | 13 | や.める,  いな.む | ジCấu tạo từ các bộ thủ: 舌 辛 | 舌 辛 | Lưỡi (舌) ăn đồ cay (辛) phải từ từ (辞) thôi!
+込 - | Đông đúc | N2 | 5 | -こ.む,  こ.む,  こ.み,  -こ.み,  こ.める | Cấu tạo từ các bộ thủ: 入 辶 | 入 辶 | Nhập (入) hàng phải đi xa (辶) nơi đông đúc (込)
+迎 - | Đón | N3 | 7 | むか.える | ゲイCấu tạo từ các bộ thủ: 卬 辶 | 卬 辶 | CD (卯) mới ra đi xa (辶) vẫn được nghênh đón (迎)
+返 - | Trả lại | N3 | 7 | かえ.す,  -かえ.す,  かえ.る,  -かえ.る | ヘンCấu tạo từ các bộ thủ: 反 辶 | 反 辶 | Phản đối (反) đi xa (辶) rồi trả lại (返)
+迷 - | Lạc đường | N2 | 9 | まよ.う | メイCấu tạo từ các bộ thủ: 米 辶 | 米 辶 | Bán gạo (米) đi xa (辶) quá bị lạc đường (迷)
+追 - | Truy đuổi | N3 | 9 | お.う | ツイCấu tạo từ các bộ thủ: 𠂤 辶 | 𠂤 辶 | Đóng giả quan (B) đi xa (辶) để tránh sự truy đuổi (追)
+退 - | Thoái lùi | N3 | 9 | しりぞ.く,  しりぞ.ける,  ひ.く,  の.く,  の.ける,  ど.く | タイCấu tạo từ các bộ thủ: 艮 辶 | 艮 辶 | Thoái lui (退) không tốt (良) bằng đi xa (辶)
+逃 - | Đào tẩu | N2 | 9 | に.げる,  に.がす,  のが.す,  のが.れる | トウCấu tạo từ các bộ thủ: 兆 辶 | 兆 辶 | Trộm được nghìn tỷ (兆) chạy đi xa (辶) đào tẩu (逃)
+途 - | Con đường | N2 | 10 | みち | トCấu tạo từ các bộ thủ: 余 辶 | 余 辶 | Mang dư (余) tiền để đi xa (辶) trên con đường (途)
+速 - | Nhanh | N4 | 10 | はや.い,  はや-,  はや.める,  すみ.やか | ソクCấu tạo từ các bộ thủ: 束 辶 | 束 辶 | Càng thúc (束) đi xa (辶) tốc độ (速) càng nhanh
+連 - | Liên kết | N3 | 10 | つら.なる,  つら.ねる,  つ.れる,  -づ.れ | レンCấu tạo từ các bộ thủ: 車 辶 | 車 辶 | Xe (車) đi xa (辶)  liên tục (連)
+進 - | Tiến bộ | N3 | 11 | すす.む,  すす.める | シンCấu tạo từ các bộ thủ: 隹 辶 | 隹 辶 | Chim (隹) đi xa (辶) học hỏi để tiến bộ (進)
+遅 - | Trễ | N4 | 12 | おく.れる,  おく.らす,  おそ.い | チCấu tạo từ các bộ thủ: 尸 羊 辶 | 尸 羊 辶 | Xe chở xác chết (尸) con dê (羊) đi xa (辶) nên đến muộn (遅)
+遊 - | Chơi | N2 | 12 | あそ.ぶ,  あそ.ばす | ユウ,  ユCấu tạo từ các bộ thủ: 斿 辶 | 斿 辶 | Phương (方) nằm (𠂉) cùng con (子) rồi dậy đi xa (辶) chơi (遊)
+過 - | Vượt qua | N2 | 12 | す.ぎる,  す.ごす,  あやま.ち,  あやま.つ,  よぎ.る,  よ.ぎる | カCấu tạo từ các bộ thủ: 咼 辶 | 咼 辶 | Qua (咼) đường mà đi xa (辶) quá (過)
+達 - | Thành đạt | N3 | 12 | -たち | タツ,  ダCấu tạo từ các bộ thủ: 𦍒 辶 土 羊 | 𦍒 辶 土 羊 | Có đất (土) nuôi dê (羊) thì không cần đi xa (辶) vẫn thành đạt (遅)
+違 - | Sai lầm | N2 | 13 | ちが.う,  ちが.い,  ちが.える,  -ちが.える,  たが.う,  たが.える | イCấu tạo từ các bộ thủ: 韋 辶 | 韋 辶 | Vi (韋) hành đi xa (辶) quá là vi phạm (違)
+遠 - | Xa | N4 | 13 | とお.い | エン,  オンCấu tạo từ các bộ thủ: 袁 辶 | 袁 辶 | Đến công viên (袁) còn phải đi xa (辶) xa (遠)
+適 - | Thích hợp | N2 | 14 | かな.う | テキCấu tạo từ các bộ thủ: 啇 辶 | 啇 辶 | Thích (商) rồi đi xa (辶) càng thích hợp (適)
+選 - | Tuyển chọn | N3 | 15 | えら.ぶ,  え.る,  よ.る | センCấu tạo từ các bộ thủ: 巽 辶 | 巽 辶 | Tuyển chọn (選) 22 (己己) cộng (共) tác viên làm việc từ xa (辶)
+部 - | Bộ phận | N4 | 11 | -べ | ブCấu tạo từ các bộ thủ: 咅 邑 | 咅 邑 | Bộ phận (音) Bồ (阝) làm việc là bộ phận (部) giỏi nhất
+都 - | Thành phố | N4 | 11 | みやこ | ト,  ツCấu tạo từ các bộ thủ: 者 邑 | 者 邑 | Tác giả (者) đi chơi với Bồ (阝) ở kinh đô (都)
+配 - | Phân phối | N2 | 10 | くば.る | ハイCấu tạo từ các bộ thủ: 酉 己 | 酉 己 | Giờ Dậu (酉) 2 (己) anh em sẽ đi phân phối (配) rượu
+酒 - | Rượu | N4 | 10 | さけ,  さか- | シュCấu tạo từ các bộ thủ: 氵 酉 | 氵 酉 | Ủ men với nước (氵) tới giờ Dậu (酉) sẽ thành rượu (酒)
+閉 - | Đóng | N4 | 11 | と.じる,  と.ざす,  し.める,  し.まる,  た.てる | ヘイCấu tạo từ các bộ thủ: 門 才 | 門 才 | Đứng dưới cổng (門) nói O (才) là cổng sẽ đóng (閉) lại
+関 - | Quan hệ | N3 | 14 | せき,  -ぜき,  かか.わる,  からくり,  かんぬき | カンCấu tạo từ các bộ thủ: 門 关 | 門 关 | Đến cổng (門) quan (关) tạo quan hệ (関)
+降 - | Xuống, rơi | N4 | 10 | お.りる,  お.ろす,  ふ.る,  ふ.り,  くだ.る,  くだ.す | コウ,  ゴCấu tạo từ các bộ thủ: 阝 夅 | 阝 夅 | Bồ (阝) sau (夂) 14 (牛) năm bị giáng (降) chức
+限 - | Giới hạn | N2 | 9 | かぎ.る,  かぎ.り,  -かぎ.り | ゲンCấu tạo từ các bộ thủ: 阝 艮 | 阝 艮 | Bồ (阝) không tốt (良) nên giới hạn (限)
+除 - | Loại bỏ | N2 | 10 | のぞ.く,  -よ.け | ジョ,  ジCấu tạo từ các bộ thủ: 阝 余 | 阝 余 | Bồ (阝) dư thừa (余) phải loại bỏ (除)
+険 - | Nguy hiểm | N3 | 11 | けわ.しい | ケンCấu tạo từ các bộ thủ: 阝 㑒 | 阝 㑒 | Để Bồ (阝) mặc áo yếm rất nguy hiểm (険)
+陽 - | Mặt trời | N3 | 12 | ひ | ヨウCấu tạo từ các bộ thủ: 阝 昜 | 阝 昜 | Bồ (阝) làm việc vật vã (易) dưới ánh mặt trời (陽)
+際 - | Quốc tế | N2 | 14 | きわ,  -ぎわ | サイCấu tạo từ các bộ thủ: 阝 祭 | 阝 祭 | Đưa Bồ (阝) đi lễ hội (祭) quốc tế (際)
+雑 - | Phức tạp | N2 | 14 | まじ.える,  まじ.る | ザツ,  ゾウCấu tạo từ các bộ thủ: 九 木 隹 | 九 木 隹 | Ăn cả 9 (九) loại cây (木) làm chim (隹) ăn tạp (雑)
+難 - | Khó, gian nan | N3 | 18 | かた.い,  -がた.い,  むずか.しい,  むづか.しい,  むつか.しい,  -にく.い | ナンCấu tạo từ các bộ thủ: 廿 口 夫 隹 艹 | 廿 口 夫 隹 艹 | Chữ Hán (茣) chim (隹) học được thì quả là gian nan (難)
+雪 - | Tuyết | N4 | 11 | ゆき | セツCấu tạo từ các bộ thủ: 雨 彐 | 雨 彐 | Mưa (雨) tuyết (雪) rơi dày 3 (彐) lớp
+静 - | Yên tĩnh | N4 | 14 | しず-,  しず.か,  しず.まる,  しず.める | セイ,  ジョウCấu tạo từ các bộ thủ: 青 爭 争 | 青 爭 争 | Bầu trời xanh (青) không còn chiến tranh (争) thật tĩnh lặng (静)
+靴 - | Giày | N2 | 13 | くつ | カCấu tạo từ các bộ thủ: 革 化 | 革 化 | Da (革) được biến hóa (化) thành giày (靴)
+頂 - | Đỉnh cao | N2 | 11 | いただ.く,  いただき | チョウCấu tạo từ các bộ thủ: 丁 頁 | 丁 頁 | Làm đinh (丁) mỏng như tờ giấy (頁) mới đỉnh (頂)
+頭 - | Cái đầu | N3 | 16 | あたま,  かしら,  -がしら,  かぶり | トウ,  ズ,  トCấu tạo từ các bộ thủ: 豆 頁 | 豆 頁 | Đầu (頭) óc bã đậu (豆) không thể làm việc giấy (頁) tờ
+頼 - | Ỷ lại | N2 | 16 | たの.む,  たの.もしい,  たよ.る | ライCấu tạo từ các bộ thủ: 束 頁 | 束 頁 | Sư thúc (束) có tiền giấy (頁) nên rất ỷ lại (頼)
+顔 - | Khuôn mặt | N3 | 18 | かお | ガンCấu tạo từ các bộ thủ: 彦 頁 | 彦 頁 | Ngưu Lang (彦) lấy giấy (頁) che mặt (顔)
+願 - | Nguyện ước | N3 | 19 | ねが.う,  -ねがい | ガンCấu tạo từ các bộ thủ: 原 頁 | 原 頁 | Nguyên (原) cả tờ giấy (頁) dùng để viết nguyện ước (願)
+類 - | Chủng loại | N3 | 18 | たぐ.い | ルイCấu tạo từ các bộ thủ: 米 大 頁 | 米 大 頁 | Chủng loại (類) gạo (米) to (大) như tờ giấy (頁)
+喜 - | Hoan hỉ | N3 | 12 | よろこ.ぶ,  よろこ.ばす | キCấu tạo từ các bộ thủ: 吉 口 | 吉 口 | Được ăn 10 (十) hạt đậu (豆) nên miệng (口) cười hoan hỉ (喜)
+回 - | Lần | N3 | 6 | まわ.る,  -まわ.る,  -まわ.り,  まわ.す,  -まわ.す,  まわ.し-,  -まわ.し,  もとお.る,  か.える | カイ,  エCấu tạo từ các bộ thủ: 囗 口 | 囗 口 | 2 cái miệng (口) nói liên hồi (回)
+因 - | Nguyên nhân | N2 | 6 | よ.る,  ちな.む | インCấu tạo từ các bộ thủ: 囗 大 | 囗 大 | Vây quanh (口) Bao Đại (大) Nhân (因)
+困 - | Khốn khổ | N3 | 7 | こま.る | コンCấu tạo từ các bộ thủ: 囗 木 | 囗 木 | làm hàng rào vây quanh (囗) cây (木) đúng là khốn khổ (困)
+園 - | Vườn | N4 | 13 | その | エンCấu tạo từ các bộ thủ: 囗 袁 | 囗 袁 | Vây quanh (囗) viên (袁) là công viên (園)
+在 - | Tồn tại | N3 | 6 | あ.る | ザイCấu tạo từ các bộ thủ: 亻 土 | 亻 土 | 1 (一) tài Phiệt (丿) từng mua 1 (丨) mảnh đất (土) tại (在) đây
+報 - | Báo cáo | N3 | 12 | むく.いる | ホウCấu tạo từ các bộ thủ: 幸 卩 又 | 幸 卩 又 | Hạnh phúc (幸) bị phản đối (反) đã được dự báo (報) trước
+増 - | Tăng giá | N2 | 14 | ま.す,  ま.し,  ふ.える,  ふ.やす | ゾウCấu tạo từ các bộ thủ: 土 曽 | 土 曽 | Đất (土) của cháu (曽) đang tăng giá (増)
+声 - | Giọng, âm thanh | N4 | 7 | こえ,  こわ- | セイ,  ショウCấu tạo từ các bộ thủ: 士 | 士 | Binh sĩ (士) thấy xác chết (尸) bị bịt miệng kêu thất thanh (声)
+変 - | Biến đổi | N3 | 9 | か.わる,  か.わり,  か.える | ヘンCấu tạo từ các bộ thủ: 亦 夂 | 亦 夂 | Lưu Diệc Phi (亦) sau (夂) phẫu thuật đã biến đổi (変)
+夢 - | Giấc mơ | N3 | 13 | ゆめ,  ゆめ.みる,  くら.い | ム,  ボウCấu tạo từ các bộ thủ: 艹 罒 冖 夕 | 艹 罒 冖 夕 | Trong giấc mơ (夢) cô giáo Thảo (艹) nằm võng (皿) trùm khăn (冖) ngủ đến chiều tối (夕)
+太 - | To, béo | N4 | 4 | ふと.い,  ふと.る | タイ,  タCấu tạo từ các bộ thủ: 大 丶 | 大 丶 | To (大) + lủng lẳng ( 、) = béo (太)
+夫 - | Chồng | N4 | 4 | おっと,  それ | フ,  フウ,  ブCấu tạo từ các bộ thủ: 大 | 大 | Chồng (夫) cao hơn trời (天)
+失 - | Thất bại | N3 | 5 | うしな.う,  う.せる | シツCấu tạo từ các bộ thủ: 丿 夫 | 丿 夫 | Bị cắm sừng (丿) là người chồng (夫) thất bại (失)
+好 - | Thích | N5 | 6 | この.む,  す.く,  よ.い,  い.い | コウCấu tạo từ các bộ thủ: 女 子 | 女 子 | Đàn ông thích (好) phụ nữ (女) và trẻ con (子)
+妻 - | Vợ | N4 | 8 | つま | サイCấu tạo từ các bộ thủ: 彐 女 | 彐 女 | Lấy 10 (十) Em (ヨ) gái (女) về làm vợ (妻)
+娘 - | Cô nương | N3 | 10 | むすめ,  こ | ジョウCấu tạo từ các bộ thủ: 女 良 | 女 良 | Cô gái (女) tốt (良) nhất chính là cô nương (娘)
+婚 - | Kết hôn | N3 | 11 |  | コンCấu tạo từ các bộ thủ: 女 昏 | 女 昏 | Phụ nữ (女) phải đổi họ (氏) sau ngày (日) kết hôn (婚)
+婦 - | Phụ nữ | N3 | 11 | よめ | フCấu tạo từ các bộ thủ: 女 帚 | 女 帚 | Người con gái (女) biết cầm chổi (帚) là đã trở thành phụ nữ (婦)
+存 - | Tồn tại | N3 | 6 | ながら.える,  あ.る,  たも.つ,  と.う | ソン,  ゾンCấu tạo từ các bộ thủ: 亻 子 | 亻 子 | 1 (一) tài Phiệt (丿) cũng chỉ là 1 (丨) đứa trẻ (子) nên khó tồn (存) tại một mình
+宅 - | Nhà ở | N4 | 6 |  | タクCấu tạo từ các bộ thủ: 宀 乇 | 宀 乇 | Nhà ở (宅) chỗ mái (宀) cần 17 (モ) cột chống
+守 - | Phòng thủ | N3 | 6 | まも.る,  まも.り,  もり,  -もり,  かみ | シュ,  スCấu tạo từ các bộ thủ: 宀 寸 | 宀 寸 | Dưới mái nhà (宀) rất thốn (寸) vì phải phòng thủ (守)
+完 - | Hoàn thành | N2 | 7 |  | カンCấu tạo từ các bộ thủ: 宀 元 | 宀 元 | Mái nhà (宀) theo nguyên bản (元) đã hoàn thành (完)
+官 - | Chức quan | N3 | 8 |  | カンCấu tạo từ các bộ thủ: 宀 口 | 宀 口 | Dưới mái nhà (宀) người đeo kính (B) là quan (官)
+定 - | Cố định | N3 | 8 | さだ.める,  さだ.まる,  さだ.か | テイ,  ジョウCấu tạo từ các bộ thủ: 宀 疋 | 宀 疋 | Dưới mái nhà (宀) hạ (下) nhân (人) bị cố định (定) lại
+実 - | Sự thực | N3 | 8 | み,  みの.る,  まこと,  みの,  みち.る | ジツ,  シツCấu tạo từ các bộ thủ: 宀 𡗗 | 宀 𡗗 | Nhà (宀) có 3 (三) người (人) giống nhau là sự thực (実)
+客 - | Khách | N4 | 9 |  | キャク,  カクCấu tạo từ các bộ thủ: 宀 各 | 宀 各 | Dưới mái nhà (宀) các (各) vị  khách (客) đang ngồi quây dưới chiếu
+害 - | Tổn hại | N2 | 10 |  | ガイCấu tạo từ các bộ thủ: 宀 龶 口 | 宀 龶 口 | Dưới mái nhà (宀) ông vua lòi đầu (主) miệng (口) chỉ ăn hại (害)
+容 - | Nội dung | N3 | 10 | い.れる | ヨウCấu tạo từ các bộ thủ: 宀 谷 | 宀 谷 | Dưới mái nhà (宀) cốc (谷) đang 'dung' (容)
+宿 - | Ở, trọ | N4 | 11 | やど,  やど.る,  やど.す | シュクCấu tạo từ các bộ thủ: 宀 佰 | 宀 佰 | Dưới mái nhà (宀) số người (亻) là 100 (百) muốn thuê nhà trọ (宿)
+寄 - | Kí gửi | N2 | 11 | よ.る,  -よ.り,  よ.せる | キCấu tạo từ các bộ thủ: 宀 奇 | 宀 奇 | Ký gửi (寄) dưới mái nhà (宀) kỳ lạ (奇)
+富 - | Phú hào | N3 | 12 | と.む,  とみ | フ,  フウCấu tạo từ các bộ thủ: 宀 畐 | 宀 畐 | Nhà (宀) có 10 (ō) mẫu ruộng (田) là phú hào (富)
+寒 - | Lạnh | N4 | 12 | さむ.い | カンCấu tạo từ các bộ thủ: 宀 三 八 冫 | 宀 三 八 冫 | Dưới mái nhà (宀) chỗ cái giếng (井) số 18 (ー儿) có băng (゛) lạnh (寒)
+寝 - | Ngủ | N3 | 13 | ね.る,  ね.かす,  い.ぬ,  みたまや,  や.める | シンCấu tạo từ các bộ thủ: 宀 丬 彐 冖 又 | 宀 丬 彐 冖 又 | Dưới mái nhà (宀) dựa tường (丬) cô Tấm (夛) ngủ (寝)
+察 - | Cánh sát | N2 | 14 |  | サツCấu tạo từ các bộ thủ: 宀 祭 | 宀 祭 | Dưới mái nhà (宀) đang tổ chức lễ hội (祭) thì cảnh sát (察) ập vào
+対 - | Phản đối | N3 | 7 | あいて,  こた.える,  そろ.い,  つれあ.い,  なら.ぶ,  むか.う | タイ,  ツイCấu tạo từ các bộ thủ: 文 寸 | 文 寸 | Bài văn (文) thốn (寸) quá nên bị phản đối (対)
+局 - | Kết cục | N3 | 7 | つぼね | キョクCấu tạo từ các bộ thủ: 尸 句 | 尸 句 | Xác chết (尸) có khả năng (可) đóng thành cục (局)
+居 - | Cư trú | N2 | 8 | い.る,  -い,  お.る | キョ,  コCấu tạo từ các bộ thủ: 尸 古 | 尸 古 | Xác chết (尸) tìm mộ cổ (古) để cư trú (居)
+差 - | Sai trái | N3 | 10 | さ.す,  さ.し | サCấu tạo từ các bộ thủ: 羊 丿 工 | 羊 丿 工 | Dê (羊) em công nhân (工) là sai trái (差)
+市 - | Thành phố | N4 | 5 | いち | シCấu tạo từ các bộ thủ: 亠 巾 | 亠 巾 | Đầu (亠) quàng khăn (巾) là người thành phố (市)
+師 - | Giáo sư | N3 | 10 | いくさ | シCấu tạo từ các bộ thủ: 丿 丨 巾 | 丿 丨 巾 | Nguyên soái (帥) cũng là 1 (一) vị giáo sư (師) giỏi
+席 - | Chỗ ngồi | N3 | 10 | むしろ | セキCấu tạo từ các bộ thủ: 广 廿 巾 | 广 廿 巾 | Dưới mái hiên (广) uống cốc nước (廿) quàng khăn (巾) ngồi (席) chờ khách hàng
+常 - | Bình thường | N3 | 11 | つね,  とこ- | ジョウCấu tạo từ các bộ thủ: 尚 吊 | 尚 吊 | Hòa thượng (尚) quàng 1 chiếc khăn (巾) rất bình thường (常)
+平 - | Hoà bình | N3 | 5 | たい.ら,  たい.らげる,  ひら | ヘイ,  ビョウ,  ヒョウCấu tạo từ các bộ thủ: 干 | 干 | Cái can (干) = 2 (丷) cái bình (平)
+幸 - | Hạnh phúc | N3 | 8 | さいわ.い,  さち,  しあわ.せ | コウCấu tạo từ các bộ thủ: 土 𢆉 | 土 𢆉 | Có đất (土) có tiền Yên (¥) thì hạnh phúc (幸)
+幾 - | Bao nhiêu | N1 | 12 | いく-,  いく.つ,  いく.ら | キCấu tạo từ các bộ thủ: 幺 戍 | 幺 戍 | 2 con yêu yêu (幺幺) qua (戈) hết người (人) này đến bao nhiêu (幾) người khác
+座 - | Ngồi | N3 | 10 | すわ.る | ザCấu tạo từ các bộ thủ: 广 坐 | 广 坐 | Dưới mái hiên (广) 2 người (人) ngồi dưới đất (土) tọa (座) đàm
+庭 - | Sân vườn | N2 | 10 | にわ | テイCấu tạo từ các bộ thủ: 广 廷 | 广 廷 | Dưới mái hiên (广) của triều đình (廷) có sân vườn (庭)
+式 - | Hình thức | N3 | 6 |  | シキCấu tạo từ các bộ thủ: 弋 工 | 弋 工 | Đánh giặc (弋) cũng cần phải có công (工) thức (式)
+引 - | Kéo ra | N3 | 4 | ひ.く,  ひ.ける | インCấu tạo từ các bộ thủ: 弓 丨 | 弓 丨 | Cung tên (弓) có 1 (丨) dây để kéo (引)
+当 - | Đương thời, hiện tại | N4 | 6 | あ.たる,  あ.たり,  あ.てる,  あ.て,  まさ.に,  まさ.にべし | トウCấu tạo từ các bộ thủ: 小 彐 | 小 彐 | Tiểu (小) cô nương! Em (ヨ) đương nhiên (当) rất xinh đẹp!
+形 - | Hình dạng | N3 | 7 | かた,  -がた,  かたち,  なり | ケイ,  ギョウCấu tạo từ các bộ thủ: 开 彡 | 开 彡 | Chắp 1 tay (开) vuốt tóc (彡) tạo hình (形)
+役 - | Chiến dịch | N3 | 7 |  | ヤク,  エキCấu tạo từ các bộ thủ: 彳 殳 | 彳 殳 | 2 người đứng (彳) đánh nhau với kẻ thù (殳) trong chiến dịch (役)
+彼 - | Anh ấy | N3 | 8 | かれ,  かの,  か.の | ヒCấu tạo từ các bộ thủ: 彳 皮 | 彳 皮 | 2 người đứng (彳) sờ lên da (皮) anh ấy (彼)
+徒 - | Học sinh | N3 | 10 | いたずら,  あだ | トCấu tạo từ các bộ thủ: 彳 走 | 彳 走 | 2 người (彳) đang chạy (走) là học sinh (徒)
+得 - | Đắc ý | N2 | 11 | え.る,  う.る | トクCấu tạo từ các bộ thủ: 彳 㝵 | 彳 㝵 | 2 người đứng (彳) vào dịp Tết Nguyên Đán (旦) không thấy thốn (寸) mà còn đắc ý (得)
+御 - | Chế ngự | N2 | 12 | おん-,  お-,  み- | ギョ,  ゴCấu tạo từ các bộ thủ: 彳 卸 | 彳 卸 | 2 người đứng (彳) bán sỉ (卸) bị cảnh sát trật tự chế ngự (御)
+必 - | Tất yêu | N3 | 5 | かなら.ず | ヒツCấu tạo từ các bộ thủ: 心 丿 | 心 丿 | Trái tim (心) bị đâm (ノ) tất yếu (必) sẽ chết
+忘 - | Quên | N3 | 7 | わす.れる | ボウCấu tạo từ các bộ thủ: 亡 心 | 亡 心 | Chết (亡) rồi nhưng trái tim (心) vẫn không thể quên (忘)
+忙 - | Bận rộn | N2 | 6 | いそが.しい,  せわ.しい,  おそ.れる,  うれえるさま | ボウ,  モウCấu tạo từ các bộ thủ: 忄 亡 | 忄 亡 | Tâm (忄) mệt muốn chết (亡) vì bận rộn (忙)
+念 - | Kỷ niệm | N3 | 8 |  | ネンCấu tạo từ các bộ thủ: 今 心 | 今 心 | Bây giờ (今) trong tim (心) chỉ còn là kỷ niệm (念)
+怒 - | Phẫn nộ | N3 | 9 | いか.る,  おこ.る | ド,  ヌCấu tạo từ các bộ thủ: 奴 心 | 奴 心 | Nô lệ (奴) trong tim (心) rất phẫn nộ (怒)
+怖 - | Sợ hãi | N2 | 8 | こわ.い,  こわ.がる,  お.じる,  おそ.れる | フ,  ホCấu tạo từ các bộ thủ: 忄 布 | 忄 布 | Trái tim (忄) bố (布) sợ hãi (怖)
+性 - | Tính cách | N3 | 8 | さが | セイ,  ショウCấu tạo từ các bộ thủ: 忄 生 | 忄 生 | Tâm (忄) sinh (生) tính (性)
+恐 - | Khủng hoảng | N2 | 10 | おそ.れる,  おそ.る,  おそ.ろしい,  こわ.い,  こわ.がる | キョウCấu tạo từ các bộ thủ: 工 凡 心 | 工 凡 心 | Công (工) lực phi phàm (凡) khiến trái tim (心) khủng hoảng (恐)
+恥 - | Xấu hổ | N2 | 10 | は.じる,  はじ,  は.じらう,  は.ずかしい | チCấu tạo từ các bộ thủ: 耳 心 | 耳 心 | Tai (耳) đỏ lên vì trong tim (心) cảm thấy xấu hổ (恥)
+息 - | Hơi thở | N3 | 10 | いき | ソクCấu tạo từ các bộ thủ: 自 心 | 自 心 | Tự (自) điều hòa nhịp tim (心) và hơi thở (息)
+悲 - | Bi thảm | N3 | 12 | かな.しい,  かな.しむ | ヒCấu tạo từ các bộ thủ: 非 心 | 非 心 | Người phi thường (非) trái tim (心) hay gặp điều bi thảm (悲)
+情 - | Tình cảm | N3 | 11 | なさ.け | ジョウ,  セイCấu tạo từ các bộ thủ: 忄 青 | 忄 青 | Trái tim (忄) thanh (青) niên giàu tình cảm (情)
+想 - | Tưởng tượng | N3 | 13 | おも.う | ソウ,  ソCấu tạo từ các bộ thủ: 相 心 | 相 心 | Tương tự (相) đầu óc trái tim (心) cũng biết tưởng tượng (想)
+愛 - | Yêu | N3 | 13 | いと.しい,  かな.しい,  め.でる,  お.しむ,  まな | アイCấu tạo từ các bộ thủ: 爫 冖 心 夂 | 爫 冖 心 夂 | Dùng móng tay (爪) trùm khăn (冖) sưởi ấm trái tim (心) từ phía sau (攵) Đó là tình yêu (愛)
+感 - | Cảm thấy | N3 | 13 |  | カンCấu tạo từ các bộ thủ: 咸 心 | 咸 心 | Cảm thấy (感) giảm (咸) nhịp tim (心)
+慣 - | Tập quán | N2 | 14 | な.れる,  な.らす | カンCấu tạo từ các bộ thủ: 忄 貫 | 忄 貫 | Trái tim (忄) nhất quán (貫) theo tập quán (慣)
+与 - | Ban cho | N2 | 3 | あた.える,  あずか.る,  くみ.する,  ともに | ヨCấu tạo từ các bộ thủ: 一 | 一 | Ban cho (与) biển số 51 (ち一)
+両 - | Cả hai | N2 | 6 | てる,  ふたつ | リョウCấu tạo từ các bộ thủ: 一 冂 山 | 一 冂 山 | Cả hai (両) đều 1 (一) mình đi qua biên giới (冂) đến ngọn núi (山)
+乗 - | Lên xe, cưỡi | N4 | 9 | の.る,  -の.り,  の.せる | ジョウ,  ショウCấu tạo từ các bộ thủ: 千 木 | 千 木 | Mang 1000 (千) cỏ (艹) cây (木) thừa lên xe (乗)
+予 - | Dự báo | N3 | 4 | あらかじ.め | ヨ,  シャCấu tạo từ các bộ thủ: マ 了 | マ 了 | Dự báo (予) gặp MA (々) sẽ kêu A (ア)
+争 - | Cạnh tranh | N3 | 6 | あらそ.う,  いか.でか | ソウCấu tạo từ các bộ thủ: 𠂊 彐 亅 | 𠂊 彐 亅 | Móc (ク) vào Em (ヨ) nhất quyết (亅) sẽ xảy ra chiến tranh (争)
+互 - | Hỗ trợ | N2 | 4 | たが.い,  かたみ.に | ゴCấu tạo từ các bộ thủ: 二 彑 | 二 彑 | Giống số 69
+亡 - | Chết | N3 | 3 | な.い,  な.き-,  ほろ.びる,  ほろ.ぶ,  ほろ.ぼす | ボウ,  モウCấu tạo từ các bộ thủ: 亠 匸 | 亠 匸 | Mất đầu (亠) Là (L) chết (亡)
+交 - | Giao lưu, trao đổi | N4 | 6 | まじ.わる,  まじ.える,  ま.じる,  まじ.る,  ま.ざる,  ま.ぜる,  -か.う,  か.わす,  かわ.す,  こもごも | コウCấu tạo từ các bộ thủ: 亠 父 | 亠 父 | Lần đầu (亠) cùng bố (父) vợ giao lưu (交)
+他 - | Khác | N3 | 5 | ほか | タCấu tạo từ các bộ thủ: 亻 也 | 亻 也 | Người đứng (亻) thả C (也) là người khác (他)
+付 - | Giao phó | N3 | 5 | つ.ける,  -つ.ける,  -づ.ける,  つ.け,  つ.け-,  -つ.け,  -づ.け,  -づけ,  つ.く,  -づ.く,  つ.き,  -つ.き,  -つき,  -づ.き,  -づき | フCấu tạo từ các bộ thủ: 亻 寸 | 亻 寸 | Người (亻) mặt rất thốn (寸) khi bị giao phó (付)
+件 - | Sự kiện | N3 | 6 | くだん | ケンCấu tạo từ các bộ thủ: 亻 牛 | 亻 牛 | Người (亻) dắt bò (牛) đi dự sự kiện (件)
+任 - | Trách nhiệm | N3 | 6 | まか.せる,  まか.す | ニンCấu tạo từ các bộ thủ: 亻 壬 | 亻 壬 | Người (亻) làm vua (王) phải có trách nhiệm (任)
+伝 - | Truyền đạt | N3 | 6 | つた.わる,  つた.える,  つた.う,  つだ.う,  -づた.い,  つて | デン,  テンCấu tạo từ các bộ thủ: 亻 云 | 亻 云 | Người đứng (亻) suốt 24 giờ (云) để tuyên truyền (伝)
+似 - | Tương tự/giống nhau | N2 | 7 | に.る,  ひ.る | ジCấu tạo từ các bộ thủ: 亻 以 | 亻 以 | Con người (亻) vốn dĩ (以) là giống nhau (似)
+位 - | Vị trí | N3 | 7 | くらい,  ぐらい | イCấu tạo từ các bộ thủ: 亻 立 | 亻 立 | Người (亻) đứng (立) đúng vị trí (位)
+余 - | Dư thừa | N2 | 7 | あま.る,  あま.り,  あま.す,  あんま.り | ヨCấu tạo từ các bộ thủ: 人 小 | 人 小 | Người (人) có 2 (二) vợ bé (小) là dư thừa (余)
+例 - | Ví dụ, tiền lệ | N3 | 8 | たと.える | レイCấu tạo từ các bộ thủ: 亻 列 | 亻 列 | Ví dụ (例) nhìn thấy người đứng (亻) bị liệt (列) bạn có rơi lệ?
+供 - | Cung cấp | N3 | 8 | そな.える,  とも,  -ども | キョウ,  ク,  クウ,  グCấu tạo từ các bộ thủ: 亻 共 | 亻 共 | Người đứng (亻) nơi công cộng (共) cung cấp (供) đồ
+便 - | Tiện lợi | N4 | 9 | たよ.り | ベン,  ビンCấu tạo từ các bộ thủ: 亻 更 | 亻 更 | Người (亻) mới (更) tiện (便) để sai bảo
+係 - | Quan hệ | N3 | 9 | かか.る,  かかり,  -がかり,  かか.わる | ケイCấu tạo từ các bộ thủ: 亻 系 | 亻 系 | Người đứng (亻) được vào hệ thống (系) là phải có quan hệ (係)
+信 - | Tin tưởng | N3 | 9 |  | シンCấu tạo từ các bộ thủ: 亻 言 | 亻 言 | Con người (亻) nói (言) phải giữ chữ Tín (信)
+倒 - | Ngã, đổ | N3 | 10 | たお.れる,  -だお.れ,  たお.す,  さかさま,  さかさ,  さかしま | トウCấu tạo từ các bộ thủ: 亻 到 | 亻 到 | Người (亻) đến nơi (到) là đổ (倒) luôn
+候 - | Khí hậu | N3 | 10 | そうろう | コウCấu tạo từ các bộ thủ: 亻 丨 矢 | 亻 丨 矢 | Tước hầu (侯) có 1 (丨) vật có thể điều khiển khí hậu (候)
+値 - | Giá trị | N2 | 10 | ね,  あたい | チCấu tạo từ các bộ thủ: 亻 直 | 亻 直 | Người (亻) trực tiếp (直) tạo ra giá trị (値)
+偉 - | Vĩ nhân | N2 | 12 | えら.い | イCấu tạo từ các bộ thủ: 亻 韋 | 亻 韋 | Người (亻) đi vi (韋) hành là vĩ nhân (偉)
+側 - | Phía | N3 | 11 | かわ,  がわ,  そば | ソクCấu tạo từ các bộ thủ: 亻 則 | 亻 則 | Người (亻) có quy tắc (則) luôn đứng về 1 phía (側)
+偶 - | Ngẫu nhiên | N2 | 11 | たま | グウCấu tạo từ các bộ thủ: 亻 禺 | 亻 禺 | Chọn ngẫu nhiên (偶) phải người (亻) ngu dốt (禺)
+備 - | Chuẩn bị | N3 | 12 | そな.える,  そな.わる,  つぶさ.に | ビCấu tạo từ các bộ thủ: 亻 艹 厂 用 | 亻 艹 厂 用 | Người đứng (亻) cắt cỏ (艹) ở sườn núi (厂) để sử dụng (用) cho bò chuẩn bị (備) ăn
+働 - | Làm việc | N4 | 13 | はたら.く | ドウCấu tạo từ các bộ thủ: 亻 動 | 亻 動 | Người (亻) chuyển động (動) khi đang lao động (働)
+優 - | Ưu tú | N3 | 17 | やさ.しい,  すぐ.れる,  まさ.る | ユウ,  ウCấu tạo từ các bộ thủ: 亻 憂 | 亻 憂 | Người (亻) hay ưu phiền (憂) không thể trở nên ưu tú (優)
+光 - | Ánh sáng | N4 | 6 | ひか.る,  ひかり | コウCấu tạo từ các bộ thủ: 小 兀 | 小 兀 | Tiểu (小) cô nương có 1 (一) cặp chân (儿) trắng sáng (光)
+全 - | Toàn bộ | N3 | 6 | まった.く,  すべ.て | ゼンCấu tạo từ các bộ thủ: 人 王 | 人 王 | Người (𠆢) làm vua (王) phải giỏi toàn (全) diện
+共 - | Công cộng | N2 | 6 | とも,  とも.に,  -ども | キョウCấu tạo từ các bộ thủ: 八 龷 | 八 龷 | Ở hàng rào (井) tám (ハ) chuyện nơi công cộng (共)
+具 - | Dụng cụ | N3 | 8 | そな.える,  つぶさ.に | グCấu tạo từ các bộ thủ: 目 一 八 | 目 一 八 | Dùng dụng cụ (具) cắt 1 (一) bảo bối (貝) làm đôi
+内 - | Bên trong | N5 | 4 | うち | ナイ,  ダイCấu tạo từ các bộ thủ: 冂 人 | 冂 人 | Bên trong (内) biên giới (冂) mọi người (人) thường sống hướng nội
+冷 - | Lạnh | N3 | 7 | つめ.たい,  ひ.える,  ひ.や,  ひ.ややか,  ひ.やす,  ひ.やかす,  さ.める,  さ.ます | レイCấu tạo từ các bộ thủ: 冫 令 | 冫 令 | Nhà băng (冫) ra lệnh (令) lãnh (冷) tiền
+処 - | Xử lý | N2 | 5 | ところ,  -こ,  お.る | ショCấu tạo từ các bộ thủ: 夂 几 | 夂 几 | Phía sau (夂) cầm theo ghế (几) ra xử lý (処)
+列 - | Xếp hàng | N3 | 6 |  | レツ,  レCấu tạo từ các bộ thủ: 歹 刂 | 歹 刂 | Lính bị ngạt (歹) vẫn cầm đao (刂) nằm la liệt (列) thành hàng
+初 - | Sơ cấp | N3 | 7 | はじ.め,  はじ.めて,  はつ,  はつ-,  うい-,  -そ.める,  -ぞ.め | ショCấu tạo từ các bộ thủ: 衤 刀 | 衤 刀 | Cắt may y phục (衤) bằng đao (刀) sẽ học ở lớp sơ cấp (初)
+判 - | Phán đoán | N3 | 7 | わか.る | ハン,  バンCấu tạo từ các bộ thủ: 半 刂 | 半 刂 | Ông bán (半) đao (刂) đang phán đoán (判)
+利 - | Lợi ích | N4 | 7 | き.く | リCấu tạo từ các bộ thủ: 禾 刂 | 禾 刂 | Cắt lúa (禾) bằng đao (刂) rất tiện lợi (利)
+到 - | Đến nơi | N2 | 8 | いた.る | トウCấu tạo từ các bộ thủ: 至 刂 | 至 刂 | Chí (至) Phèo vác đao (刂) đến nơi (到)
+制 - | Chế độ | N2 | 8 |  | セイCấu tạo từ các bộ thủ: 牛 巾 刂 | 牛 巾 刂 | Dồn con bò (牛) vào biên giới (冂), dùng đao (刂) khống chế (制)
+刻 - | Điều khắc | N2 | 8 | きざ.む,  きざ.み | コクCấu tạo từ các bộ thủ: 亥 刂 | 亥 刂 | Con lợn (亥) dùng đao (刂) điêu khắc (刻)
+割 - | Vỡ | N2 | 12 | わ.る,  わり,  わ.り,  わ.れる,  さ.く | カツCấu tạo từ các bộ thủ: 害 刂 | 害 刂 | Tác hại (害) của đao (刂) là làm vỡ (割)
+加 - | Gia tăng | N2 | 5 | くわ.える,  くわ.わる | カCấu tạo từ các bộ thủ: 力 口 | 力 口 | Lực (力) từ miệng (口) cần gia tăng (加)
+助 - | Trợ giúp | N3 | 7 | たす.ける,  たす.かる,  す.ける,  すけ | ジョCấu tạo từ các bộ thủ: 且 力 | 且 力 | Thả (且) hết sức lực (力) ra để trợ giúp (助)
+努 - | Nỗ lực | N3 | 7 | つと.める | ドCấu tạo từ các bộ thủ: 奴 力 | 奴 力 | Nô lệ (奴) có sức lực (力) vẫn phải nỗ lực (努) cố gắng
+労 - | Lao động | N3 | 7 | ろう.する,  いたわ.る,  いた.ずき,  ねぎら,  つか.れる,  ねぎら.う | ロウCấu tạo từ các bộ thủ: 小 冖 力 | 小 冖 力 | Người lao động (労) dội 3 (''') chiếc khăn trùm (冖) rất nỗ lực (力)
+務 - | Vụ việc | N2 | 11 | つと.める | ムCấu tạo từ các bộ thủ: 矛 攵 力 | 矛 攵 力 | Xảy ra vụ (務) mâu thuẫn (矛) đánh (夂) nhau bằng vũ lực (力)
+勝 - | Chiến thắng | N3 | 12 | か.つ,  -が.ち,  まさ.る,  すぐ.れる,  かつ | ショウCấu tạo từ các bộ thủ: 月 劵 | 月 劵 | Nguyệt (月) múa 2 ngọn lửa (火) thật lực (力) để ăn mừng chiến thắng (勝)
+勤 - | Cần cù | N2 | 12 | つと.める,  -づと.め,  つと.まる,  いそ.しむ | キン,  ゴンCấu tạo từ các bộ thủ: 菫 力 | 菫 力 | Người bị cận (菫) vẫn nỗ lực (力) cần cù (勤) học
+化 - | Biến hóa | N4 | 4 | ば.ける,  ば.かす,  ふ.ける,  け.する | カ,  ケCấu tạo từ các bộ thủ: 亻 匕 | 亻 匕 | Người đứng (亻) cười hihi (ヒ) là hóa (化) điên
+単 - | Đơn giản | N3 | 9 | ひとえ | タンCấu tạo từ các bộ thủ: 小 甲 | 小 甲 | 3 (''') ngày (日) làm 10 (十) mảnh ruộng thì quá đơn giản (単)
+危 - | Nguy hiểm | N3 | 6 | あぶ.ない,  あや.うい,  あや.ぶむ | キCấu tạo từ các bộ thủ: 𠂊 厄 | 𠂊 厄 | Móc (ク) vào tai họa (厄) rất nguy hiểm (危)
+原 - | Gốc, nguyên nhân | N4 | 10 | はら | ゲンCấu tạo từ các bộ thủ: 厂 | 厂 | Thảo nguyên (原) bao trùm bởi những sườn núi (厂) màu trắng (白) nho nhỏ (小)
+参 - | Tham gia | N2 | 8 | まい.る,  まい-,  まじわる,  みつ | サン,  シンCấu tạo từ các bộ thủ: 厶 大 彡 | 厶 大 彡 | Tứ (ム) đại (大) mỹ nhân tết tóc đuôi sam (彡) tham gia (参) biểu diễn
+反 - | Phản đối, ngược lại | N3 | 4 | そ.る,  そ.らす,  かえ.す,  かえ.る,  -かえ.る | ハン,  ホン,  タン,  ホCấu tạo từ các bộ thủ: 厂 又 | 厂 又 | Dưới sườn núi (厂) đi lại (又) để phản đối (反)
+収 - | Thu nhập | N3 | 4 | おさ.める,  おさ.まる | シュウCấu tạo từ các bộ thủ: 丨 又 | 丨 又 | 4 (丩) năm lại (又) tăng thu nhập (収)
+取 - | Lấy | N3 | 8 | と.る,  と.り,  と.り-,  とり,  -ど.り | シュCấu tạo từ các bộ thủ: 耳 又 | 耳 又 | Tai (耳) lại (又) bị lấy (取) mất
+受 - | Nhận | N3 | 8 | う.ける,  -う.け,  う.かる | ジュCấu tạo từ các bộ thủ: 爫 冖 又 | 爫 冖 又 | Bạch cốt trảo (爪) trùm khăn (冖) lên là lại (又) nhận (受) đệ tử
+号 - | Số, ký hiệu | N4 | 5 | さけ.ぶ,  よびな | ゴウCấu tạo từ các bộ thủ: 口 一 | 口 一 | Miệng (口) 5 (ち) lần hô hiệu lệnh (号)
+合 - | Hợp lại | N4 | 6 | あ.う,  -あ.う,  あ.い,  あい-,  -あ.い,  -あい,  あ.わす,  あ.わせる,  -あ.わせる | ゴウ,  ガッ,  カッCấu tạo từ các bộ thủ: 𠆢 一 口 | 𠆢 一 口 | Người (𠆢) có 1 (一) miệng (口) là hợp (合) lý
+向 - | Phương hướng | N3 | 6 | む.く,  む.い,  -む.き,  む.ける,  -む.け,  む.かう,  む.かい,  む.こう,  む.こう-,  むこ,  むか.い | コウCấu tạo từ các bộ thủ: 丿 冂 口 | 丿 冂 口 | Tài phiệt (ノ) ở biên giới (冂) miệng (口) kêu cứu vì mất phương hướng (向)
+君 - | Em | N3 | 7 | きみ,  -ぎみ | クンCấu tạo từ các bộ thủ: 尹 口 | 尹 口 | Em (ヨ) là 1 (丿) người chỉ nói mồm (口) thôi em (君) Quân ạ!
+否 - | Phủ định | N3 | 7 | いな,  いや | ヒCấu tạo từ các bộ thủ: 不 口 | 不 口 | Không (不) còn miệng (口) để phủ định (否)
+吸 - | Hô hấp | N3 | 6 | す.う | キュウCấu tạo từ các bộ thủ: 口 及 | 口 及 | Miệng (口) phổ cập (及) dùng để hô hấp (吸)
+吹 - | Thổi | N2 | 7 | ふ.く | スイCấu tạo từ các bộ thủ: 口 欠 | 口 欠 | Miệng (口) thiếu (欠) thì không thể thổi (吹)
+告 - | Quảng cáo | N3 | 7 | つ.げる | コクCấu tạo từ các bộ thủ: 牛 口 | 牛 口 | Con bò cụt đuôi (牛) mở miệng (口) quảng cáo (告)
+呼 - | Hô gọi | N3 | 8 | よ.ぶ | コCấu tạo từ các bộ thủ: 口 乎 | 口 乎 | Miệng (ロ) Bình (平) đang hô hấp (呼)
+命 - | Sinh mệnh | N2 | 8 | いのち | メイ,  ミョウCấu tạo từ các bộ thủ: 人 一 口 卩 | 人 一 口 卩 | Người (人) bị 1 (一) gõ (叩) là kết thúc sinh mệnh (命)
+和 - | Hòa bình | N3 | 8 | やわ.らぐ,  やわ.らげる,  なご.む,  なご.やか,  あ.える | ワ,  オ,  カCấu tạo từ các bộ thủ: 禾 口 | 禾 口 | Lúa (禾) cứ đầy mồm (口) tự khắc sẽ hòa bình (和)
+商 - | Thương phẩm | N3 | 11 | あきな.う | ショウCấu tạo từ các bộ thủ: 立 冏 | 立 冏 | Đứng (立) ở biên giới (冂) chân chạy (儿) miệng (口) giao bán thương phẩm (商)
+成 - | Thành công | N3 | 6 | な.る,  な.す,  -な.す | セイ,  ジョウCấu tạo từ các bộ thủ: 𠂊 戈 | 𠂊 戈 | Vượt qua (戈) muôn vạn (万) khó khăn thì mới thành công (成)
+戦 - | Chiến tranh | N3 | 13 | いくさ,  たたか.う,  おのの.く,  そよ.ぐ,  わなな.く | センCấu tạo từ các bộ thủ: 単 戈 | 単 戈 | Đơn giản (単) vượt qua (戈) chiến tranh (戦)
+戻 - | Quay lại | N2 | 7 | もど.す,  もど.る | レイCấu tạo từ các bộ thủ: 戸 大 | 戸 大 | Cánh cửa (戸) mở to (大) chào đón em quay lại (戻)
+所 - | Nơi | N4 | 8 | ところ,  -ところ,  どころ,  とこ | ショCấu tạo từ các bộ thủ: 戸 斤 | 戸 斤 | Phá cửa ( 戸) bằng Rìu (斤)  để xây cơ SỞ (所) mới
+才 - | Tài năng | N4 | 3 |  | サイCấu tạo từ các bộ thủ: 扌 | 扌 | Ô (才) thiên tài (才)
+打 - | Ẩu đã | N3 | 5 | う.つ,  う.ち-,  ぶ.つ | ダ,  ダースCấu tạo từ các bộ thủ: 扌 丁 | 扌 丁 | Tay (扌) cầm đinh (丁) đi ẩu đả (打)
+払 - | Trả tiền | N2 | 5 | はら.う,  -はら.い,  -ばら.い | フツ,  ヒツ,  ホツCấu tạo từ các bộ thủ: 扌 厶 | 扌 厶 | Tay (扌) cầm 4 (ム) triệu đi trả tiền (払)
+投 - | Đầu tư | N3 | 7 | な.げる,  -な.げ | トウCấu tạo từ các bộ thủ: 扌 殳 | 扌 殳 | Đầu tư (投) tiếp tay (扌) cho kẻ thù (殳)
+折 - | Bẻ, gãy | N3 | 7 | お.る,  おり,  お.り,  -お.り,  お.れる | セツ,  シャクCấu tạo từ các bộ thủ: 扌 斤 | 扌 斤 | Tay (扌) cầm rìu (斤) chiết gãy (折) cả cây
+抜 - | Rút ra | N2 | 7 | ぬ.く,  -ぬ.く,  ぬ.き,  ぬ.ける,  ぬ.かす,  ぬ.かる | バツ,  ハツ,  ハイCấu tạo từ các bộ thủ: 扌 友 | 扌 友 | Rút (抜) tay (扌) ra bạt tai thằng bạn (友)
+抱 - | Ôm | N2 | 8 | だ.く,  いだ.く,  かか.える | ホウCấu tạo từ các bộ thủ: 扌 包 | 扌 包 | Tay (扌) ôm ấp bao (包) hoài bão (抱)
+押 - | Ấn | N3 | 8 | お.す,  お.し-,  お.っ-,  お.さえる,  おさ.える | オウCấu tạo từ các bộ thủ: 扌 甲 | 扌 甲 | Ấn (押) tay (扌) vào áo giáp (甲)
+招 - | Chiêu đãi | N2 | 8 | まね.く | ショウCấu tạo từ các bộ thủ: 扌 召 | 扌 召 | Tay (扌) cầm 1 triệu (召) đi chiêu đãi (招)
+指 - | Ngón tay | N3 | 9 | ゆび,  さ.す,  -さ.し | シCấu tạo từ các bộ thủ: 扌 旨 | 扌 旨 | Tay (扌) dùng để chỉ (旨) là ngón tay (指)
+捕 - | Bắt | N2 | 10 | と.らえる,  と.らわれる,  と.る,  とら.える,  とら.われる,  つか.まえる,  つか.まる | ホCấu tạo từ các bộ thủ: 扌 甫 | 扌 甫 | Bắt (捕) tay (扌) quan phủ (甫)
+掛 - | Treo | N2 | 11 | か.ける,  -か.ける,  か.け,  -か.け,  -が.け,  か.かる,  -か.かる,  -が.かる,  か.かり,  -が.かり,  かかり,  -がかり | カイ,  ケイCấu tạo từ các bộ thủ: 扌 卦 | 扌 卦 | Tay (扌) Ngọc Khuê (圭) to (卜) nên treo (掛) đồ rất dễ dàng
+探 - | Trinh thám | N3 | 11 | さぐ.る,  さが.す | タンCấu tạo từ các bộ thủ: 扌 㓁 木 | 扌 㓁 木 | Tay (扌) trùm khăn (冖) lên đầu, chân (儿) trèo lên cây (木) để trinh thám (探)
+放 - | Giải phóng | N2 | 8 | はな.す,  -っぱな.し,  はな.つ,  はな.れる,  こ.く,  ほう.る | ホウCấu tạo từ các bộ thủ: 方 攵 | 方 攵 | Quân giải phóng (放) khắp bốn phương (方) đều đánh (攵) thắng kẻ thù
+政 - | Chính trị | N4 | 9 | まつりごと,  まん | セイ,  ショウCấu tạo từ các bộ thủ: 正 攵 | 正 攵 | Làm chính trị (政) mà không chính xác (正) sẽ bị đánh (夂) đòn
+敗 - | Thất bại | N3 | 11 | やぶ.れる | ハイCấu tạo từ các bộ thủ: 貝 攵 | 貝 攵 | Bảo bối (貝) này sẽ đánh (攵) bại (敗) tất cả
+散 - | Tản bộ , giải tán | N2 | 12 | ち.る,  ち.らす,  -ち.らす,  ち.らかす,  ち.らかる,  ち.らばる,  ばら,  ばら.ける | サンCấu tạo từ các bộ thủ: 月 攵 | 月 攵 | Đang đi tản bộ (散) đến chỗ hàng rào (廿) thì Nguyệt (月) bất ngờ bị đánh (攵)
+数 - | Số lượng | N4 | 13 | かず,  かぞ.える,  しばしば,  せ.める,  わずらわ.しい | スウ,  ス,  サク,  ソク,  シュCấu tạo từ các bộ thủ: 娄 攵 | 娄 攵 | Sau khi say rượu gạo (米) phụ nữ (女) đánh (攵) chồng lấy có số (数) má
+断 - | Đoạn tuyệt | N3 | 11 | た.つ,  ことわ.る,  さだ.める | ダンCấu tạo từ các bộ thủ: 米 斤 | 米 斤 | Cầm cái RỪU (斤) chặt hạt GẠO (米) ra từng ĐOẠN (断)
+易 - | Dễ dàng | N3 | 8 | やさ.しい,  やす.い | エキ,  イCấu tạo từ các bộ thủ: 日 勿 | 日 勿 | Ban ngày (日) các con vật (勿) dịch chuyển dễ dàng (易)
+昔 - | Ngày xưa | N3 | 8 | むかし | セキ,  シャクCấu tạo từ các bộ thủ: 廾 日 | 廾 日 | Ở hàng rào (井) cả ngày (日) đọc truyện cổ tích ngày xưa (昔)
+昨 - | Hôm qua | N3 | 9 |  | サクCấu tạo từ các bộ thủ: 日 乍 | 日 乍 | Ngày (日) bị Ép (乍) là hôm qua (昨)
+晩 - | Tối | N4 | 12 |  | バンCấu tạo từ các bộ thủ: 日 免 | 日 免 | Ngày (日) miễn (免) tội đi chơi đến tối (晩)
+景 - | Phong cảnh | N2 | 12 |  | ケイCấu tạo từ các bộ thủ: 日 京 | 日 京 | Ở Nhật (日) kinh đô (京) phong cảnh (景) rất đẹp
+晴 - | Trời trong, nắng | N4 | 12 | は.れる,  は.れ,  は.れ-,  -ば.れ,  は.らす | セイCấu tạo từ các bộ thủ: 日 青 | 日 青 | Ngày (日) trong xanh (青) là trời nắng (晴)
+暗 - | Tối | N5 | 13 | くら.い,  くら.む,  くれ.る | アンCấu tạo từ các bộ thủ: 日 音 | 日 音 | Ở Nhật (日) âm thanh (音) ồn ảo từ sáng đến tối (暗)
+暮 - | Tối | N2 | 14 | く.れる,  く.らす | ボCấu tạo từ các bộ thủ: 莫 日 | 莫 日 | Ở sa mạc (莫) ngày (日) rất nhanh tối (暮)
+曲 - | Ca khúc | N3 | 6 | ま.がる,  ま.げる,  くま | キョクCấu tạo từ các bộ thủ: 日 廾 | 日 廾 | Tự do (由) hát 1 (l) ca khúc (曲)
+更 - | Đổi mới | N2 | 7 | さら,  さら.に,  ふ.ける,  ふ.かす | コウCấu tạo từ các bộ thủ: 日 乂 一 | 日 乂 一 | 1 (一) ngày (日) đam mê (メ) đổi mới (更)
+最 - | Tối cao | N3 | 12 | もっと.も,  つま | サイ,  シュCấu tạo từ các bộ thủ: 日 取 | 日 取 | Mặt trời (日) bị lấy (取) là tối (最)
+望 - | Tuyệt vọng | N3 | 11 | のぞ.む,  もち | ボウ,  モウCấu tạo từ các bộ thủ: 亡 月 王 | 亡 月 王 | Vong (亡) hồn Nguyệt (月) bám theo vua (王) trong tuyệt vọng (望)
+期 - | Kỳ hạn | N3 | 12 |  | キ,  ゴCấu tạo từ các bộ thủ: 其 月 | 其 月 | Kì (其) cuối tháng (月) là kỳ hạn (期) trả tiền
+未 - | Mùi vị | N3 | 5 | いま.だ,  ま.だ,  ひつじ | ミ,  ビCấu tạo từ các bộ thủ: 木 | 木 | Vị thành niên (未) to bằng 1 (一) cái cây (木)
+末 - | Cuối cùng | N3 | 5 | すえ,  うら,  うれ | マツ,  バツCấu tạo từ các bộ thủ: 木 | 木 | Mạt (末) cuối cùng vẫn ngược với vị (未)
+束 - | Bó buộc | N3 | 7 | たば,  たば.ねる,  つか,  つか.ねる | ソクCấu tạo từ các bộ thủ: 木 口 日 | 木 口 日 | Thúc (束) miệng (口) vào cây (木)
+杯 - | Cái chén | N3 | 8 | さかずき | ハイCấu tạo từ các bộ thủ: 木 不 | 木 不 | Cây (木) không (不) dùng làm chén (杯)
+果 - | Kết quả | N3 | 8 | は.たす,  はた.す,  -は.たす,  は.てる,  -は.てる,  は.て | カCấu tạo từ các bộ thủ: 田 木 | 田 木 | Ruộng (田) trồng cây (木) ăn quả (果)
+格 - | Tính cách | N3 | 10 |  | カク,  コウ,  キャク,  ゴウCấu tạo từ các bộ thủ: 木 各 | 木 各 | Nhìn cây (木) các vị (各) trồng là biết được tính cách (格)
+構 - | Cấu tạo | N3 | 14 | かま.える,  かま.う | コウCấu tạo từ các bộ thủ: 木 冓 | 木 冓 | Cây (木) + cấu (冓) = Cấu tạo (構) cây
+様 - | Dáng vẻ, cách thức | N4 | 14 | さま,  さん | ヨウ,  ショウCấu tạo từ các bộ thủ: 木 羊 氺 | 木 羊 氺 | Hình dạng (様) cây (木) dương (羊) xỉ mọc dưới nước (水) rất đặc biệt
+権 - | Quyền lợi | N2 | 15 | おもり,  かり,  はか.る | ケン,  ゴンCấu tạo từ các bộ thủ: 木 𠂉 隹 | 木 𠂉 隹 | Bất cứ cái cây (木) nào vào buổi trưa (午) chim (隹) đều có quyền (権) đậu
+横 - | Trục hoành | N3 | 15 | よこ | オウCấu tạo từ các bộ thủ: 木 黄 | 木 黄 | Có vài cây (木) vàng (黄) thì rất hoành (横) tráng
+機 - | Cơ khí | N3 | 16 | はた | キCấu tạo từ các bộ thủ: 木 幾 | 木 幾 | Cây (木) qua bao nhiêu (幾) năm chế tạo thành cơ khí máy móc (機)
+次 - | Tiếp theo | N3 | 6 | つ.ぐ,  つぎ | ジ,  シCấu tạo từ các bộ thủ: 冫 欠 | 冫 欠 | Nhà băng (冫) không thiếu (欠) thứ (次) gì
+欲 - | Dục vọng | N3 | 11 | ほっ.する,  ほ.しい | ヨクCấu tạo từ các bộ thủ: 谷 欠 | 谷 欠 | Ở trong cốc (谷) thiếu (欠) dục vọng (欲)
+歳 - | Tuổi | N2 | 13 | とし,  とせ,  よわい | サイ,  セイCấu tạo từ các bộ thủ: 止 戌 小 一 | 止 戌 小 一 | Dừng lại (止) đúng giờ Tuất (戌) hỏi chú tiểu (小) bao nhiêu tuổi (歳)
+残 - | Còn lại | N3 | 10 | のこ.る,  のこ.す,  そこな.う,  のこ.り | ザン,  サンCấu tạo từ các bộ thủ: 歹 戋 | 歹 戋 | Bị ngạt (歹) qua 2 lần (毛) thì tàn (残) đời
+段 - | Giai đoạn | N3 | 9 |  | ダン,  タンCấu tạo từ các bộ thủ: 殳 | 殳 | Ép (F) 2 (二) lần kẻ thù (殳) đến giai đoạn (段) cuối
+殺 - | Sáthại | N2 | 10 | ころ.す,  -ごろ.し,  そ.ぐ,  あや.める | サツ,  サイ,  セツCấu tạo từ các bộ thủ: 乂 木 殳 | 乂 木 殳 | Mê (メ) cây (木) của kẻ thù (殳) nên bị sát hại (殺)
+民 - | Dân chúng | N2 | 5 | たみ | ミンCấu tạo từ các bộ thủ: 氏 | 氏 | Dân chúng (民) miệng (ロ) nói họ (氏) tên
+求 - | Yêu cầu | N3 | 7 | もと.める | キュウ,  グCấu tạo từ các bộ thủ: 氺 丶 | 氺 丶 | Pha 1 (一) cốc nước (水) theo đúng ông chủ (｀) yêu cầu (求)
+決 - | Quyết định | N3 | 7 | き.める,  -ぎ.め,  き.まる,  さ.く | ケツCấu tạo từ các bộ thủ: 氵 夬 | 氵 夬 | Việc của đất nước (氵) do trung ương (央) quyết định (決)
+治 - | Trị bệnh, quản lý | N4 | 8 | おさ.める,  おさ.まる,  なお.る,  なお.す | ジ,  チCấu tạo từ các bộ thủ: 氵 台 | 氵 台 | Dùng nước (氵) ở vũ đài (台) để trị liệu (治)
+法 - | Phương pháp | N3 | 8 | のり | ホウ,  ハッ,  ホッ,  フランCấu tạo từ các bộ thủ: 氵 去 | 氵 去 | Thủy (氵) trong quá khứ (去) đã sáng tạo ra phương pháp (法) học kanji
+泳 - | Bơi | N5 | 8 | およ.ぐ | エイCấu tạo từ các bộ thủ: 氵 永 | 氵 永 | Nước (氵) vĩnh cửu (永) dùng để bơi (泳)
+洗 - | Rửa | N3 | 9 | あら.う | センCấu tạo từ các bộ thủ: 氵 先 | 氵 先 | Nước (氵) tiên sinh (先) dùng để rửa (洗)
+活 - | Hoạt động | N3 | 9 | い.きる,  い.かす,  い.ける | カツCấu tạo từ các bộ thủ: 氵 舌 | 氵 舌 | Nước (氵) trong lưỡi (舌) luôn hoạt động (活)
+流 - | Lưu thông | N3 | 10 | なが.れる,  なが.れ,  なが.す,  -なが.す | リュウ,  ルCấu tạo từ các bộ thủ: 氵 㐬 | 氵 㐬 | Nước (氵) đầu (亠) tư (厶) vào dòng sông (川) để lưu thông (流)
+浮 - | Nổi lên | N2 | 10 | う.く,  う.かれる,  う.かぶ,  う.かべる | フCấu tạo từ các bộ thủ: 氵 孚 | 氵 孚 | Nước (氵) từ móng tay (爪) trẻ con (子)làm mọi thứ nổi lên (浮)
+消 - | Tiêu diệt | N3 | 10 | き.える,  け.す | ショウCấu tạo từ các bộ thủ: 氵 肖 | 氵 肖 | Nước (氵) tiêu (肖) biến (消)
+深 - | Sâu | N3 | 11 | ふか.い,  -ぶか.い,  ふか.まる,  ふか.める,  み- | シンCấu tạo từ các bộ thủ: 氵 㓁 木 | 氵 㓁 木 | Ngã xuống nước (氵) vẫn trùm khăn (冖) rồi chân (儿) trèo lên cây (木) để tránh nước sâu (深)
+済 - | Kinh tế, cứu giúp | N4 | 11 | す.む,  -ず.み,  -ずみ,  す.まない,  す.ます,  -す.ます,  すく.う,  な.す,  わたし,  わた.る | サイ,  セイCấu tạo từ các bộ thủ: 氵 斉 | 氵 斉 | Nước (氵) Tề (斉) kinh tế (済) rất mạnh
+渡 - | Vượt qua | N2 | 12 | わた.る,  -わた.る,  わた.す | トCấu tạo từ các bộ thủ: 氵 度 | 氵 度 | Nước (氵) lần (度) này dâng cao phải cố gắng vượt qua (渡)
+港 - | Hải cảng | N2 | 12 | みなと | コウCấu tạo từ các bộ thủ: 氵 巷 | 氵 巷 | Hải cảng (港) này đã xảy ra hồng thủy (洪) 2 (己) lần
+満 - | Mãn nguyện | N3 | 12 | み.ちる,  み.つ,  み.たす | マン,  バンCấu tạo từ các bộ thủ: 氵 艹 両 | 氵 艹 両 | Nước (氵) tưới lên cỏ (艹) cả hai (両) cùng mãn nguyện (満)
+演 - | Biểu diễn | N3 | 14 |  | エンCấu tạo từ các bộ thủ: 氵 寅 | 氵 寅 | Dưới nước (氵) hổ (寅) đang biểu diễn (演)
