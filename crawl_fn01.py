@@ -361,7 +361,7 @@ def scrape_kanji_data(
 def process_level(level: int) -> None:
     """Fetch, scrape, and write all kanji data for a single JLPT level."""
     session     = _build_session()          # each thread owns its session
-    output_file = f"jlpt_level_{level}.json"
+    output_file = f"output_files\\jlpt_level_{level}.json"
 
     log.info("Starting JLPT-%d", level)
     kanji_list = fetch_kanji_data(session, level)
