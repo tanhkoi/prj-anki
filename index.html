@@ -2,43 +2,176 @@
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#2b6cb0">
 <title>JLPT Kanji Search</title>
 <style>
-  * { box-sizing: border-box; }
-  body { font-family: -apple-system, "Segoe UI", Arial, sans-serif; max-width: 960px; margin: 20px auto; padding: 0 16px; background: #fafafa; color: #222; }
-  h1 { font-size: 20px; margin: 0 0 12px; }
-  .controls { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
-  input, select, button { padding: 8px 10px; font-size: 14px; border: 1px solid #ccc; border-radius: 4px; }
-  input { flex: 1; min-width: 220px; }
-  .status { font-size: 12px; color: #666; margin-bottom: 10px; }
-  .results { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
-  .card { background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; }
-  .kanji { font-size: 48px; font-weight: bold; line-height: 1; margin-bottom: 6px; }
-  .level { display: inline-block; background: #2b6cb0; color: #fff; font-size: 11px; padding: 2px 6px; border-radius: 3px; margin-left: 6px; vertical-align: middle; }
-  .row { font-size: 13px; margin: 4px 0; }
-  .label { color: #666; display: inline-block; min-width: 90px; }
-  .explain { font-style: italic; color: #444; margin-top: 6px; border-top: 1px dashed #ddd; padding-top: 6px; font-size: 13px; }
-  .empty { color: #888; padding: 20px; text-align: center; }
+  *, *::before, *::after { box-sizing: border-box; }
+  :root {
+    --bg: #fafafa;
+    --fg: #222;
+    --muted: #666;
+    --card: #fff;
+    --border: #e0e0e0;
+    --accent: #2b6cb0;
+    --accent-fg: #fff;
+    --shadow: 0 1px 2px rgba(0,0,0,.04);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #15171a;
+      --fg: #e6e6e6;
+      --muted: #9aa0a6;
+      --card: #1e2126;
+      --border: #2c2f36;
+      --accent: #4a90d9;
+      --shadow: 0 1px 2px rgba(0,0,0,.3);
+    }
+  }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans JP", sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+    line-height: 1.45;
+    -webkit-text-size-adjust: 100%;
+  }
+  .wrap {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 16px clamp(12px, 3vw, 24px) 32px;
+  }
+  header {
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    padding-top: 12px;
+    padding-bottom: 8px;
+    z-index: 10;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-size: clamp(16px, 2.4vw, 20px);
+    margin: 0 0 10px;
+  }
+  .controls {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    gap: 8px;
+  }
+  @media (max-width: 480px) {
+    .controls { grid-template-columns: 1fr 1fr; }
+    .controls input { grid-column: 1 / -1; }
+  }
+  input, select, button {
+    font: inherit;
+    padding: 10px 12px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--card);
+    color: var(--fg);
+    min-height: 40px;
+  }
+  input:focus, select:focus, button:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+  button {
+    cursor: pointer;
+    background: var(--accent);
+    color: var(--accent-fg);
+    border-color: var(--accent);
+  }
+  .status {
+    font-size: 12px;
+    color: var(--muted);
+    margin: 6px 0 12px;
+  }
+  .results {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
+    gap: clamp(8px, 1.5vw, 14px);
+  }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: clamp(10px, 2vw, 14px);
+    box-shadow: var(--shadow);
+    overflow-wrap: anywhere;
+  }
+  .head {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 6px;
+  }
+  .kanji {
+    font-size: clamp(40px, 9vw, 56px);
+    font-weight: 700;
+    line-height: 1;
+  }
+  .level {
+    background: var(--accent);
+    color: var(--accent-fg);
+    font-size: 11px;
+    padding: 3px 7px;
+    border-radius: 3px;
+    letter-spacing: .5px;
+  }
+  .row {
+    font-size: clamp(12px, 1.6vw, 14px);
+    margin: 4px 0;
+    display: flex;
+    gap: 6px;
+  }
+  .label {
+    color: var(--muted);
+    flex: 0 0 88px;
+  }
+  .val { flex: 1; min-width: 0; }
+  .explain {
+    margin-top: 8px;
+    padding-top: 8px;
+    border-top: 1px dashed var(--border);
+    font-style: italic;
+    font-size: clamp(12px, 1.6vw, 13.5px);
+    color: var(--muted);
+  }
+  .empty {
+    grid-column: 1 / -1;
+    text-align: center;
+    color: var(--muted);
+    padding: 24px;
+  }
+  @media (max-width: 360px) {
+    .label { flex-basis: 72px; font-size: 11px; }
+  }
 </style>
 </head>
 <body>
-<h1>JLPT Kanji Search (N5–N1)</h1>
+<div class="wrap">
+  <header>
+    <h1>JLPT Kanji Search (N5–N1)</h1>
+    <div class="controls">
+      <input id="q" type="search" inputmode="search" placeholder="Kanji / Vietsino / Meaning / Yomi" autofocus>
+      <select id="level" aria-label="Level">
+        <option value="">All</option>
+        <option value="N5">N5</option>
+        <option value="N4">N4</option>
+        <option value="N3">N3</option>
+        <option value="N2">N2</option>
+        <option value="N1">N1</option>
+      </select>
+      <button id="reload" type="button">Reload</button>
+    </div>
+    <div class="status" id="status">Loading...</div>
+  </header>
 
-<div class="controls">
-  <input id="q" placeholder="Tìm theo Kanji / Vietsino / Meaning / Kunyomi / Onyomi" autofocus>
-  <select id="level">
-    <option value="">All levels</option>
-    <option value="N5">N5</option>
-    <option value="N4">N4</option>
-    <option value="N3">N3</option>
-    <option value="N2">N2</option>
-    <option value="N1">N1</option>
-  </select>
-  <button id="reload">Reload</button>
+  <div class="results" id="results"></div>
 </div>
-
-<div class="status" id="status">Loading...</div>
-<div class="results" id="results"></div>
 
 <script>
 const FILES = {
@@ -50,6 +183,7 @@ const FILES = {
 };
 
 let DATA = [];
+const MAX_RENDER = 300;
 
 async function loadAll() {
   const status = document.getElementById('status');
@@ -89,24 +223,27 @@ function render() {
     );
   }
 
-  const MAX = 300;
-  const slice = list.slice(0, MAX);
+  const slice = list.slice(0, MAX_RENDER);
 
   if (!slice.length) {
     box.innerHTML = '<div class="empty">Không có kết quả.</div>';
+    document.getElementById('status').textContent = `0/${DATA.length}`;
     return;
   }
 
   box.innerHTML = slice.map(x => `
     <div class="card">
-      <div><span class="kanji">${escapeHtml(x.Kanji || '')}</span><span class="level">${escapeHtml(x.Level || '')}</span></div>
-      <div class="row"><span class="label">Vietsino:</span> ${escapeHtml(x.Vietsino || '')}</div>
-      <div class="row"><span class="label">Meaning:</span> ${escapeHtml(x.Meaning || '')}</div>
-      <div class="row"><span class="label">Onyomi:</span> ${escapeHtml(x.Onyomi || '')}</div>
-      <div class="row"><span class="label">Kunyomi:</span> ${escapeHtml(x.Kunyomi || '')}</div>
-      <div class="row"><span class="label">Strokes:</span> ${escapeHtml(x.StrokeCount || '')}</div>
-      ${x.Radicals ? `<div class="row"><span class="label">Radicals:</span> ${escapeHtml(x.Radicals)}</div>` : ''}
-      ${x.Explanation ? `<div class="explain">${escapeHtml(x.Explanation)}</div>` : ''}
+      <div class="head">
+        <span class="kanji">${esc(x.Kanji || '')}</span>
+        <span class="level">${esc(x.Level || '')}</span>
+      </div>
+      <div class="row"><span class="label">Vietsino</span><span class="val">${esc(x.Vietsino || '')}</span></div>
+      <div class="row"><span class="label">Meaning</span><span class="val">${esc(x.Meaning || '')}</span></div>
+      <div class="row"><span class="label">Onyomi</span><span class="val">${esc(x.Onyomi || '')}</span></div>
+      <div class="row"><span class="label">Kunyomi</span><span class="val">${esc(x.Kunyomi || '')}</span></div>
+      <div class="row"><span class="label">Strokes</span><span class="val">${esc(x.StrokeCount || '')}</span></div>
+      ${x.Radicals ? `<div class="row"><span class="label">Radicals</span><span class="val">${esc(x.Radicals)}</span></div>` : ''}
+      ${x.Explanation ? `<div class="explain">${esc(x.Explanation)}</div>` : ''}
     </div>
   `).join('');
 
@@ -114,13 +251,17 @@ function render() {
     `Hiển thị ${slice.length}/${list.length} (tổng ${DATA.length}).`;
 }
 
-function escapeHtml(s) {
+function esc(s) {
   return String(s).replace(/[&<>"']/g, c => ({
     '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
   }[c]));
 }
 
-document.getElementById('q').addEventListener('input', render);
+let t;
+document.getElementById('q').addEventListener('input', () => {
+  clearTimeout(t);
+  t = setTimeout(render, 120);
+});
 document.getElementById('level').addEventListener('change', render);
 document.getElementById('reload').addEventListener('click', loadAll);
 
