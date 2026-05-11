@@ -15,6 +15,8 @@
     --border: #e0e0e0;
     --accent: #2b6cb0;
     --accent-fg: #fff;
+    --chip: #eef3fb;
+    --chip-fg: #2b6cb0;
     --shadow: 0 1px 2px rgba(0,0,0,.04);
   }
   @media (prefers-color-scheme: dark) {
@@ -25,6 +27,8 @@
       --card: #1e2126;
       --border: #2c2f36;
       --accent: #4a90d9;
+      --chip: #213044;
+      --chip-fg: #9cc3ee;
       --shadow: 0 1px 2px rgba(0,0,0,.3);
     }
   }
@@ -57,11 +61,11 @@
   }
   .controls {
     display: grid;
-    grid-template-columns: 1fr auto auto;
+    grid-template-columns: 1fr auto auto auto;
     gap: 8px;
   }
-  @media (max-width: 480px) {
-    .controls { grid-template-columns: 1fr 1fr; }
+  @media (max-width: 600px) {
+    .controls { grid-template-columns: 1fr 1fr 1fr; }
     .controls input { grid-column: 1 / -1; }
   }
   input, select, button {
@@ -83,15 +87,51 @@
     color: var(--accent-fg);
     border-color: var(--accent);
   }
+  button.ghost {
+    background: transparent;
+    color: var(--fg);
+    border-color: var(--border);
+  }
+  .hint {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 6px;
+  }
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 8px;
+  }
+  .chip {
+    background: var(--chip);
+    color: var(--chip-fg);
+    font-size: 12px;
+    padding: 3px 8px;
+    border-radius: 999px;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .chip button {
+    all: unset;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1;
+    color: inherit;
+    opacity: .7;
+  }
+  .chip button:hover { opacity: 1; }
   .status {
     font-size: 12px;
     color: var(--muted);
-    margin: 6px 0 12px;
+    margin: 8px 0 0;
   }
   .results {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
     gap: clamp(8px, 1.5vw, 14px);
+    margin-top: 12px;
   }
   .card {
     background: var(--card);
@@ -146,6 +186,21 @@
     color: var(--muted);
     padding: 24px;
   }
+  .missing {
+    grid-column: 1 / -1;
+    color: var(--muted);
+    font-size: 12px;
+    padding: 4px 2px 0;
+  }
+  mark {
+    background: #fff3a3;
+    color: inherit;
+    padding: 0 1px;
+    border-radius: 2px;
+  }
+  @media (prefers-color-scheme: dark) {
+    mark { background: #5a4b1a; color: #fff; }
+  }
   @media (max-width: 360px) {
     .label { flex-basis: 72px; font-size: 11px; }
   }
@@ -156,7 +211,8 @@
   <header>
     <h1>JLPT Kanji Search (N5–N1)</h1>
     <div class="controls">
-      <input id="q" type="search" inputmode="search" placeholder="Kanji / Vietsino / Meaning / Yomi" autofocus>
+      <input id="q" type="search" inputmode="search"
+             placeholder="Nhiều kanji: 鼓 山 川  hoặc  日,月,星" autofocus>
       <select id="level" aria-label="Level">
         <option value="">All</option>
         <option value="N5">N5</option>
@@ -165,8 +221,16 @@
         <option value="N2">N2</option>
         <option value="N1">N1</option>
       </select>
-      <button id="reload" type="button">Reload</button>
+      <select id="mode" aria-label="Mode" title="Search mode">
+        <option value="any">ANY</option>
+        <option value="all">ALL</option>
+      </select>
+      <button id="reload" type="button" class="ghost">Reload</button>
     </div>
+    <div class="hint">
+      Phân tách bằng dấu cách, dấu phẩy hoặc xuống dòng. ANY = trả kết quả khớp bất kỳ token. ALL = mỗi token phải có ít nhất 1 kết quả (gộp).
+    </div>
+    <div class="chips" id="chips"></div>
     <div class="status" id="status">Loading...</div>
   </header>
 
@@ -183,7 +247,7 @@ const FILES = {
 };
 
 let DATA = [];
-const MAX_RENDER = 300;
+const MAX_RENDER = 500;
 
 async function loadAll() {
   const status = document.getElementById('status');
@@ -206,49 +270,103 @@ async function loadAll() {
   render();
 }
 
-function render() {
-  const q = document.getElementById('q').value.trim().toLowerCase();
-  const lvl = document.getElementById('level').value;
-  const box = document.getElementById('results');
+function parseTokens(raw) {
+  if (!raw) return [];
+  // Split by whitespace, comma, semicolon, full-width comma, newline.
+  const parts = raw.split(/[\s,;、，]+/).map(s => s.trim()).filter(Boolean);
+  // Dedupe, lowercase for matching.
+  return [...new Set(parts.map(s => s.toLowerCase()))];
+}
 
-  let list = DATA;
-  if (lvl) list = list.filter(x => x.Level === lvl);
-  if (q) {
-    list = list.filter(x =>
-      (x.Kanji && x.Kanji.toLowerCase().includes(q)) ||
-      (x.Vietsino && x.Vietsino.toLowerCase().includes(q)) ||
-      (x.Meaning && x.Meaning.toLowerCase().includes(q)) ||
-      (x.Kunyomi && x.Kunyomi.toLowerCase().includes(q)) ||
-      (x.Onyomi && x.Onyomi.toLowerCase().includes(q))
-    );
+function matchToken(item, tok) {
+  return (
+    (item.Kanji && item.Kanji.toLowerCase().includes(tok)) ||
+    (item.Vietsino && item.Vietsino.toLowerCase().includes(tok)) ||
+    (item.Meaning && item.Meaning.toLowerCase().includes(tok)) ||
+    (item.Kunyomi && item.Kunyomi.toLowerCase().includes(tok)) ||
+    (item.Onyomi && item.Onyomi.toLowerCase().includes(tok))
+  );
+}
+
+function render() {
+  const raw = document.getElementById('q').value;
+  const lvl = document.getElementById('level').value;
+  const mode = document.getElementById('mode').value;
+  const box = document.getElementById('results');
+  const chips = document.getElementById('chips');
+
+  const tokens = parseTokens(raw);
+
+  // chips
+  chips.innerHTML = tokens.map((t, i) =>
+    `<span class="chip">${esc(t)} <button data-i="${i}" title="Remove">×</button></span>`
+  ).join('');
+  chips.querySelectorAll('button').forEach(b => {
+    b.addEventListener('click', () => {
+      const idx = +b.dataset.i;
+      const remaining = tokens.filter((_, j) => j !== idx);
+      document.getElementById('q').value = remaining.join(' ');
+      render();
+    });
+  });
+
+  let pool = lvl ? DATA.filter(x => x.Level === lvl) : DATA;
+  let list = [];
+  const missing = [];
+
+  if (!tokens.length) {
+    list = pool;
+  } else if (mode === 'all') {
+    // For each token, take its matches; union them. Track tokens with 0 hits.
+    const seen = new Set();
+    tokens.forEach(tok => {
+      const hits = pool.filter(x => matchToken(x, tok));
+      if (!hits.length) missing.push(tok);
+      hits.forEach(h => {
+        const key = h.Kanji + '|' + h.Level;
+        if (!seen.has(key)) { seen.add(key); list.push(h); }
+      });
+    });
+  } else {
+    // ANY: union of any token match
+    list = pool.filter(x => tokens.some(tok => matchToken(x, tok)));
   }
 
   const slice = list.slice(0, MAX_RENDER);
 
+  let html = '';
+  if (missing.length) {
+    html += `<div class="missing">Không tìm thấy: ${missing.map(esc).join(', ')}</div>`;
+  }
+
   if (!slice.length) {
-    box.innerHTML = '<div class="empty">Không có kết quả.</div>';
-    document.getElementById('status').textContent = `0/${DATA.length}`;
+    html += '<div class="empty">Không có kết quả.</div>';
+    box.innerHTML = html;
+    document.getElementById('status').textContent =
+      `0/${pool.length} (tokens: ${tokens.length})`;
     return;
   }
 
-  box.innerHTML = slice.map(x => `
+  html += slice.map(x => `
     <div class="card">
       <div class="head">
-        <span class="kanji">${esc(x.Kanji || '')}</span>
+        <span class="kanji">${hl(x.Kanji || '', tokens)}</span>
         <span class="level">${esc(x.Level || '')}</span>
       </div>
-      <div class="row"><span class="label">Vietsino</span><span class="val">${esc(x.Vietsino || '')}</span></div>
-      <div class="row"><span class="label">Meaning</span><span class="val">${esc(x.Meaning || '')}</span></div>
-      <div class="row"><span class="label">Onyomi</span><span class="val">${esc(x.Onyomi || '')}</span></div>
-      <div class="row"><span class="label">Kunyomi</span><span class="val">${esc(x.Kunyomi || '')}</span></div>
+      <div class="row"><span class="label">Vietsino</span><span class="val">${hl(x.Vietsino || '', tokens)}</span></div>
+      <div class="row"><span class="label">Meaning</span><span class="val">${hl(x.Meaning || '', tokens)}</span></div>
+      <div class="row"><span class="label">Onyomi</span><span class="val">${hl(x.Onyomi || '', tokens)}</span></div>
+      <div class="row"><span class="label">Kunyomi</span><span class="val">${hl(x.Kunyomi || '', tokens)}</span></div>
       <div class="row"><span class="label">Strokes</span><span class="val">${esc(x.StrokeCount || '')}</span></div>
       ${x.Radicals ? `<div class="row"><span class="label">Radicals</span><span class="val">${esc(x.Radicals)}</span></div>` : ''}
       ${x.Explanation ? `<div class="explain">${esc(x.Explanation)}</div>` : ''}
     </div>
   `).join('');
 
+  box.innerHTML = html;
+
   document.getElementById('status').textContent =
-    `Hiển thị ${slice.length}/${list.length} (tổng ${DATA.length}).`;
+    `Hiển thị ${slice.length}/${list.length} (pool ${pool.length}, tokens ${tokens.length}${tokens.length ? ', mode ' + mode.toUpperCase() : ''}).`;
 }
 
 function esc(s) {
@@ -257,12 +375,25 @@ function esc(s) {
   }[c]));
 }
 
+function hl(s, tokens) {
+  const safe = esc(s);
+  if (!tokens || !tokens.length) return safe;
+  const escaped = tokens
+    .map(t => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
+    .filter(Boolean)
+    .sort((a, b) => b.length - a.length);
+  if (!escaped.length) return safe;
+  const re = new RegExp('(' + escaped.join('|') + ')', 'gi');
+  return safe.replace(re, '<mark>$1</mark>');
+}
+
 let t;
 document.getElementById('q').addEventListener('input', () => {
   clearTimeout(t);
   t = setTimeout(render, 120);
 });
 document.getElementById('level').addEventListener('change', render);
+document.getElementById('mode').addEventListener('change', render);
 document.getElementById('reload').addEventListener('click', loadAll);
 
 loadAll();
