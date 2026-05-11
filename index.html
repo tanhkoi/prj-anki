@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>JLPT Kanji Search</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Segoe UI", Arial, sans-serif; max-width: 960px; margin: 20px auto; padding: 0 16px; background: #fafafa; color: #222; }
+  h1 { font-size: 20px; margin: 0 0 12px; }
+  .controls { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+  input, select, button { padding: 8px 10px; font-size: 14px; border: 1px solid #ccc; border-radius: 4px; }
+  input { flex: 1; min-width: 220px; }
+  .status { font-size: 12px; color: #666; margin-bottom: 10px; }
+  .results { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
+  .card { background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; }
+  .kanji { font-size: 48px; font-weight: bold; line-height: 1; margin-bottom: 6px; }
+  .level { display: inline-block; background: #2b6cb0; color: #fff; font-size: 11px; padding: 2px 6px; border-radius: 3px; margin-left: 6px; vertical-align: middle; }
+  .row { font-size: 13px; margin: 4px 0; }
+  .label { color: #666; display: inline-block; min-width: 90px; }
+  .explain { font-style: italic; color: #444; margin-top: 6px; border-top: 1px dashed #ddd; padding-top: 6px; font-size: 13px; }
+  .empty { color: #888; padding: 20px; text-align: center; }
+</style>
+</head>
+<body>
+<h1>JLPT Kanji Search (N5–N1)</h1>
+
+<div class="controls">
+  <input id="q" placeholder="Tìm theo Kanji / Vietsino / Meaning / Kunyomi / Onyomi" autofocus>
+  <select id="level">
+    <option value="">All levels</option>
+    <option value="N5">N5</option>
+    <option value="N4">N4</option>
+    <option value="N3">N3</option>
+    <option value="N2">N2</option>
+    <option value="N1">N1</option>
+  </select>
+  <button id="reload">Reload</button>
+</div>
+
+<div class="status" id="status">Loading...</div>
+<div class="results" id="results"></div>
+
+<script>
+const FILES = {
+  N5: "json_results/jlpt_level_5.json",
+  N4: "json_results/jlpt_level_4.json",
+  N3: "json_results/jlpt_level_3.json",
+  N2: "json_results/jlpt_level_2.json",
+  N1: "json_results/jlpt_level_1.json"
+};
+
+let DATA = [];
+
+async function loadAll() {
+  const status = document.getElementById('status');
+  status.textContent = "Loading...";
+  DATA = [];
+  const entries = Object.entries(FILES);
+  const results = await Promise.all(entries.map(async ([lvl, path]) => {
+    try {
+      const r = await fetch(path);
+      if (!r.ok) throw new Error(r.status);
+      const j = await r.json();
+      return j.map(x => ({ ...x, Level: x.Level || lvl }));
+    } catch (e) {
+      console.warn("Failed:", path, e);
+      return [];
+    }
+  }));
+  DATA = results.flat();
+  status.textContent = `Loaded ${DATA.length} kanji.`;
+  render();
+}
+
+function render() {
+  const q = document.getElementById('q').value.trim().toLowerCase();
+  const lvl = document.getElementById('level').value;
+  const box = document.getElementById('results');
+
+  let list = DATA;
+  if (lvl) list = list.filter(x => x.Level === lvl);
+  if (q) {
+    list = list.filter(x =>
+      (x.Kanji && x.Kanji.toLowerCase().includes(q)) ||
+      (x.Vietsino && x.Vietsino.toLowerCase().includes(q)) ||
+      (x.Meaning && x.Meaning.toLowerCase().includes(q)) ||
+      (x.Kunyomi && x.Kunyomi.toLowerCase().includes(q)) ||
+      (x.Onyomi && x.Onyomi.toLowerCase().includes(q))
+    );
+  }
+
+  const MAX = 300;
+  const slice = list.slice(0, MAX);
+
+  if (!slice.length) {
+    box.innerHTML = '<div class="empty">Không có kết quả.</div>';
+    return;
+  }
+
+  box.innerHTML = slice.map(x => `
+    <div class="card">
+      <div><span class="kanji">${escapeHtml(x.Kanji || '')}</span><span class="level">${escapeHtml(x.Level || '')}</span></div>
+      <div class="row"><span class="label">Vietsino:</span> ${escapeHtml(x.Vietsino || '')}</div>
+      <div class="row"><span class="label">Meaning:</span> ${escapeHtml(x.Meaning || '')}</div>
+      <div class="row"><span class="label">Onyomi:</span> ${escapeHtml(x.Onyomi || '')}</div>
+      <div class="row"><span class="label">Kunyomi:</span> ${escapeHtml(x.Kunyomi || '')}</div>
+      <div class="row"><span class="label">Strokes:</span> ${escapeHtml(x.StrokeCount || '')}</div>
+      ${x.Radicals ? `<div class="row"><span class="label">Radicals:</span> ${escapeHtml(x.Radicals)}</div>` : ''}
+      ${x.Explanation ? `<div class="explain">${escapeHtml(x.Explanation)}</div>` : ''}
+    </div>
+  `).join('');
+
+  document.getElementById('status').textContent =
+    `Hiển thị ${slice.length}/${list.length} (tổng ${DATA.length}).`;
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+  }[c]));
+}
+
+document.getElementById('q').addEventListener('input', render);
+document.getElementById('level').addEventListener('change', render);
+document.getElementById('reload').addEventListener('click', loadAll);
+
+loadAll();
+</script>
+</body>
+</html>
