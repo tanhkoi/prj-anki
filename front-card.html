@@ -1,0 +1,142 @@
+<div class="ak-expression">{{Expression}}</div>
+
+<script>
+    /* -----------------------------------------------------------------
+      AnkiWeb Card Controller v2.0
+      Keys: S/Down = replay audio | A/Left = Again | D/Right = Show Answer/Good
+          H = Hard | E = Easy | F = Toggle furigana
+      ----------------------------------------------------------------- */
+    (function () {
+        if (window.__ankiCtrl) window.__ankiCtrl.destroy();
+
+        /* State */
+        const S = { audio: null, debounce: null, observer: null, onKey: null };
+
+        /* Audio helpers */
+        function cardRoot() {
+            return document.getElementById("qa") ||
+                document.querySelector(".card") ||
+                document;
+        }
+
+        function findAudios() {
+            return Array.from(cardRoot().querySelectorAll("audio"));
+        }
+
+        function stopCurrent() {
+            if (S.audio) { S.audio.pause(); S.audio.currentTime = 0; }
+        }
+
+        function safePlay(el) {
+            if (!el) return;
+            stopCurrent();
+            S.audio = el;
+            el.currentTime = 0;
+            const p = el.play();
+            if (p && p.catch) {
+                p.catch(err => {
+                    if (err.name !== "NotAllowedError")
+                        console.warn("[AnkiCtrl] play() error:", err);
+                });
+            }
+        }
+
+        function autoplay() {
+            const list = findAudios();
+            S.audio = list.length ? (safePlay(list[0]), list[0]) : null;
+        }
+
+        function replay() {
+            if (!S.audio || !document.contains(S.audio)) {
+                const list = findAudios();
+                if (!list.length) return;
+                S.audio = list[0];
+            }
+            safePlay(S.audio);
+        }
+
+        /* Button helper */
+        function clickLabel(label) {
+            for (const btn of document.querySelectorAll("button")) {
+                const txt = (btn.innerText || "").trim().replace(/\s+/g, " ").toLowerCase();
+                if (txt === label || txt.endsWith(label)) { btn.click(); return true; }
+            }
+            return false;
+        }
+
+        /* Keyboard handler */
+        S.onKey = function (e) {
+            if (e.ctrlKey || e.altKey || e.metaKey) return;
+            const tag = (e.target.tagName || "").toLowerCase();
+            if (tag === "input" || tag === "textarea" || e.target.isContentEditable) return;
+
+            const k = e.key.toLowerCase();
+            if (!["s", "a", "d", "h", "e", "f", "arrowleft", "arrowdown", "arrowright"].includes(k)) return;
+
+            e.preventDefault();
+            e.stopPropagation();
+
+            switch (k) {
+                case "s":
+                case "arrowdown": replay(); break;
+                case "a":
+                case "arrowleft": clickLabel("again"); break;
+                case "d":
+                case "arrowright": clickLabel("show answer") || clickLabel("good"); break;
+                case "h": clickLabel("hard"); break;
+                case "e": clickLabel("easy"); break;
+                case "f": toggleFurigana(); break;
+            }
+        };
+
+        document.addEventListener("keydown", S.onKey, true);
+
+        /* Furigana toggle (shared helper, called by F key and button) */
+        function toggleFurigana() {
+            const box = document.getElementById("ak-examples");
+            if (!box) return;
+            // Pause observer to prevent autoplay from triggering
+            S.observer.disconnect();
+            const on = sessionStorage.getItem("furiganaOn") !== "1";
+            sessionStorage.setItem("furiganaOn", on ? "1" : "0");
+            box.classList.toggle("ak-furigana-off", !on);
+            const btn = document.getElementById("ak-furigana-btn");
+            if (btn) {
+                btn.setAttribute("aria-pressed", on ? "true" : "false");
+                const lbl = btn.querySelector(".ak-furigana-label");
+                if (lbl) lbl.textContent = "Furigana: " + (on ? "ON" : "OFF");
+                const dot = btn.querySelector(".ak-furigana-dot");
+                if (dot) dot.style.background = on ? "" : "transparent";
+            }
+            // Resume observer
+            S.observer.observe(target, { childList: true, subtree: true });
+        }
+
+        window.__ankiToggleFurigana = toggleFurigana;
+
+        /* MutationObserver - detect card transitions */
+        const target = cardRoot() === document ? document.body : cardRoot();
+        S.observer = new MutationObserver(() => {
+            clearTimeout(S.debounce);
+            S.debounce = setTimeout(autoplay, 200);
+        });
+        S.observer.observe(target, { childList: true, subtree: true });
+
+        /* Teardown */
+        function destroy() {
+            clearTimeout(S.debounce);
+            stopCurrent();
+            if (S.observer) S.observer.disconnect();
+            if (S.onKey) document.removeEventListener("keydown", S.onKey, true);
+            Object.assign(S, { audio: null, observer: null, onKey: null });
+            delete window.__ankiCtrl;
+            delete window.__ankiToggleFurigana;
+        }
+
+        window.__ankiCtrl = { destroy, replay, autoplay };
+
+        /* Initial run */
+        autoplay();
+        console.log("[AnkiCtrl v2] S/Down=replay A/Left=again D/Right=good/show H=hard E=easy F=furigana");
+    })();
+</script>
