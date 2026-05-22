@@ -132,7 +132,7 @@
             if (tag === "input" || tag === "textarea" || e.target.isContentEditable) return;
 
             const k = e.key.toLowerCase();
-            if (!["s", "a", "d", "h", "e", "f", "arrowleft", "arrowdown", "arrowright"].includes(k)) return;
+            if (!["s", "a", "d", "f", "arrowleft", "arrowdown", "arrowright"].includes(k)) return;
 
             e.preventDefault();
             e.stopPropagation();
@@ -144,8 +144,6 @@
                 case "arrowleft": clickLabel("again"); break;
                 case "d":
                 case "arrowright": clickLabel("show answer") || clickLabel("good"); break;
-                case "h": clickLabel("hard"); break;
-                case "e": clickLabel("easy"); break;
                 case "f": toggleFurigana(); break;
             }
         }
@@ -172,6 +170,6 @@
         window.__ankiCtrl = { destroy, replay, autoplay };
 
         autoplay();
-        console.log("[AnkiCtrl v2] S=replay A=again D=good H=hard E=easy F=furigana");
+        console.log("[AnkiCtrl v2] S=replay A=again D=good F=furigana");
     })();
 </script>
